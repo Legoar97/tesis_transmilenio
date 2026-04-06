@@ -1,0 +1,1548 @@
+ruta,tipo,corredor,orden,estacion
+1,RF,K,1,Universidades - CityU
+1,RF,K,2,Centro Memoria
+1,RF,K,3,Concejo de Bogotá
+1,RF,K,4,C. Universitaria - Lotería de Btá.
+1,RF,K,5,Corferias
+1,RF,K,6,Quinta Paredes
+1,RF,K,7,Gobernación
+1,RF,K,8,CAN - British Council
+1,RF,K,9,Salitre - El Greco
+1,RF,K,10,El Tiempo - CCB
+1,RF,K,11,AV. Rojas - UNISALESIANA
+1,RF,K,12,Normandía
+1,RF,K,13,Modelia
+1,RF,K,14,Portal Eldorado - C.C. NUESTRO BOGOTÁ
+2,RF,L,1,Museo Nacional - FNG
+2,RF,L,2,San Diego
+2,RF,L,3,Las Nieves
+2,RF,L,4,San Victorino
+2,RF,L,5,Bicentenario
+2,RF,L,6,San Bernardo
+2,RF,L,7,Policarpa
+2,RF,L,8,Ciudad Jardín - UAN
+2,RF,L,9,AV. 1° Mayo
+2,RF,L,10,Country Sur
+2,RF,L,11,Portal 20 de Julio
+3,RF,H,1,Portal Tunal
+3,RF,H,2,Parque
+3,RF,H,3,Biblioteca
+3,RF,H,4,Santa Lucía
+3,RF,H,5,Calle 40 S.
+3,RF,H,6,Quiroga
+3,RF,H,7,Olaya
+3,RF,H,8,Restrepo
+3,RF,H,9,Fucha
+3,RF,H,10,Nariño
+3,RF,H,11,Hortúa
+3,RF,H,12,Hospital
+3,RF,H,13,Tercer Milenio
+3,RF,H,14,AV. Jiménez
+3,RF,H,15,Calle 19
+3,RF,H,16,Temporal - Calle 22
+3,RF,H,17,Centro Memoria
+3,RF,H,18,Concejo de Bogotá
+3,RF,H,19,C. Universitaria - Lotería de Btá.
+3,RF,H,20,Corferias
+4,RF,G,1,Portal Sur - JFK Coop. financ.
+4,RF,G,2,Perdomo
+4,RF,G,3,Paseo Villa del Río - Madelena
+4,RF,G,4,Sevillana
+4,RF,G,5,Venecia
+4,RF,G,6,Alquería
+4,RF,G,7,Gral. Santander
+4,RF,G,8,NQS - Calle 38A S.
+4,RF,G,9,NQS - Calle 30 S.
+4,RF,G,10,SENA
+4,RF,G,11,Santa Isabel
+4,RF,G,12,Comuneros
+4,RF,G,13,Ricaurte
+4,RF,G,14,Paloquemao
+4,RF,G,15,CAD
+4,RF,G,16,AV. El Dorado
+4,RF,G,17,U. Nacional
+4,RF,G,18,Campín - UAN
+4,RF,G,19,Movistar Arena
+4,RF,G,20,7 de agosto
+4,RF,G,21,AV. Chile
+4,RF,G,22,NQS - Calle 75
+4,RF,G,23,Escuela Militar
+4,RF,G,24,Polo - FINCOMERCIO
+4,RF,G,25,Héroes
+5,RF,F,1,Portal Américas
+5,RF,F,2,Patio Bonito
+5,RF,F,3,Biblioteca Tintal
+5,RF,F,4,TV 86
+5,RF,F,5,Banderas
+5,RF,F,6,Mandalay
+5,RF,F,7,AV. Américas - AV. Boyacá
+5,RF,F,8,Marsella
+5,RF,F,9,Pradera - Plaza Central
+5,RF,F,10,Distrito Grafiti
+5,RF,F,11,Puente Aranda
+5,RF,F,12,KR 43 - COMAPAN
+5,RF,F,13,Zona Industrial
+5,RF,F,14,CDS - Cra. 32
+5,RF,F,15,Ricaurte
+5,RF,F,16,San Façon - KR 22
+5,RF,F,17,De la Sabana
+5,RF,F,18,AV. Jiménez
+5,RF,F,19,Calle 19
+5,RF,F,20,Temporal - Calle 22
+6,RF,D,1,Universidades - CityU
+6,RF,D,2,Calle 26
+6,RF,D,3,Temporal - Calle 34
+6,RF,D,4,AV. 39
+6,RF,D,5,Calle 45 - American School Way
+6,RF,D,6,Temporal - Marly
+6,RF,D,7,Temporal - Calle 57
+6,RF,D,8,Calle 63
+6,RF,D,9,Temporal - Flores
+6,RF,D,10,Calle 72
+6,RF,D,11,Calle 76
+6,RF,D,12,Polo - FINCOMERCIO
+6,RF,D,13,Escuela Militar
+6,RF,D,14,KR 47
+6,RF,D,15,KR 53
+6,RF,D,16,AV. 68
+6,RF,D,17,Ferias
+6,RF,D,18,Boyacá
+6,RF,D,19,Minuto de Dios
+6,RF,D,20,Granja - KR 77
+6,RF,D,21,AV. Cali
+6,RF,D,22,KR 90
+6,RF,D,23,Quirigua
+6,RF,D,24,Portal 80
+7,RF,C,1,Polo - FINCOMERCIO
+7,RF,C,2,Escuela Militar
+7,RF,C,3,San Martín
+7,RF,C,4,Rionegro
+7,RF,C,5,Suba - Calle 95
+7,RF,C,6,Suba - Calle 100
+7,RF,C,7,Puentelargo
+7,RF,C,8,AV. Suba - Calle 116
+7,RF,C,9,Humedal Córdoba
+7,RF,C,10,Niza - Calle 127
+7,RF,C,11,Suba - AV. Boyacá
+7,RF,C,12,Gratamira
+7,RF,C,13,21 Ángeles
+7,RF,C,14,Suba - TV 91
+7,RF,C,15,La Campiña
+7,RF,C,16,Portal Suba
+8,RF,B,1,Terminal
+8,RF,B,2,Calle 187
+8,RF,B,3,Portal Norte
+8,RF,B,4,Toberín - Foundever
+8,RF,B,5,Calle 161
+8,RF,B,6,Mazurén
+8,RF,B,7,Calle 146
+8,RF,B,8,Calle 142
+8,RF,B,9,Alcalá - Col. S. Tomás Dominicos
+8,RF,B,10,Prado
+8,RF,B,11,Calle 127
+8,RF,B,12,Pepe Sierra
+8,RF,B,13,Calle 106
+8,RF,B,14,Calle 100 - Marketmedios
+8,RF,B,15,Virrey
+8,RF,B,16,Calle 85 - GATO DUMAS
+8,RF,B,17,Héroes
+8,RF,B,18,Calle 76
+8,RF,B,19,Calle 72
+8,RF,B,20,Temporal - Flores
+8,RF,B,21,Calle 63
+8,RF,B,22,Temporal - Calle 57
+8,RF,B,23,Temporal - Marly
+8,RF,B,24,Calle 45 - American School Way
+8,RF,B,25,AV. 39
+8,RF,B,26,Temporal - Calle 34
+8,RF,B,27,Calle 26
+8,RF,B,28,Temporal - Calle 22
+8,RF,B,29,Calle 19
+8,RF,B,30,AV. Jiménez
+8,RF,B,31,Tercer Milenio
+8,RF,B,32,Tygua - San José
+8,RF,B,33,Guatoque - Veraguas
+L41,DU,multiple,1,San Mateo
+L41,DU,multiple,2,Terreros Hsp. C.V.
+L41,DU,multiple,3,Bosa
+L41,DU,multiple,4,Alquería
+L41,DU,multiple,5,NQS - Calle 30 S.
+L41,DU,multiple,6,Guatoque - Veraguas
+L41,DU,multiple,7,Tygua - San José
+L41,DU,multiple,8,Bicentenario
+M47,EX,M,1,Portal Sur - JFK Coop. financ.
+M47,EX,M,2,Perdomo
+M47,EX,M,3,Paseo Villa del Río - Madelena
+M47,EX,M,4,Sevillana
+M47,EX,M,5,NQS - Calle 38A S.
+M47,EX,M,6,Comuneros
+M47,EX,M,7,Guatoque - Veraguas
+M47,EX,M,8,Tygua - San José
+M47,EX,M,9,San Victorino
+M47,EX,M,10,Las Nieves
+M47,EX,M,11,San Diego
+M47,EX,M,12,Museo Nacional - FNG
+M51,DU,multiple,1,Portal Américas
+M51,DU,multiple,2,Patio Bonito
+M51,DU,multiple,3,Biblioteca Tintal
+M51,DU,multiple,4,Banderas
+M51,DU,multiple,5,Mandalay
+M51,DU,multiple,6,AV. Américas - AV. Boyacá
+M51,DU,multiple,7,Marsella
+M51,DU,multiple,8,Pradera - Plaza Central
+M51,DU,multiple,9,Distrito Grafiti
+M51,DU,multiple,10,Ricaurte
+M51,DU,multiple,11,Las Nieves
+M51,DU,multiple,12,San Diego
+M51,DU,multiple,13,Museo Nacional - FNG
+C84,DU,M,1,AK 7 - CL 73
+C84,DU,M,2,CL 76 - KR 11
+C84,DU,M,3,Polo - FINCOMERCIO
+C84,DU,M,4,Puentelargo
+C84,DU,M,5,21 Ángeles
+C84,DU,M,6,AV. Suba - KR 110A
+C84,DU,M,7,AV. Suba - KR 114D
+A60,EX,A,1,Portal Américas
+A60,EX,A,2,TV 86
+A60,EX,A,3,Banderas
+A60,EX,A,4,Distrito Grafiti
+A60,EX,A,5,KR 43 - COMAPAN
+A60,EX,A,6,Ricaurte
+A60,EX,A,7,De la Sabana
+A60,EX,A,8,Calle 26
+A60,EX,A,9,Temporal - Calle 34
+A60,EX,A,10,Calle 45 - American School Way
+A60,EX,A,11,Temporal - Marly
+A60,EX,A,12,Calle 63
+A60,EX,A,13,Calle 76
+A52,EX,A,1,Portal Sur - JFK Coop. financ.
+A52,EX,A,2,Perdomo
+A52,EX,A,3,Paseo Villa del Río - Madelena
+A52,EX,A,4,Venecia
+A52,EX,A,5,Alquería
+A52,EX,A,6,Gral. Santander
+A52,EX,A,7,NQS - Calle 30S.
+A52,EX,A,8,Santa Isabel
+A52,EX,A,9,Calle 76
+A52,EX,A,10,Temporal - Flores
+A61,EX,A,1,Portal Américas
+A61,EX,A,2,Patio Bonito
+A61,EX,A,3,Biblioteca Tintal
+A61,EX,A,4,Banderas
+A61,EX,A,5,Marsella
+A61,EX,A,6,Zona Industrial
+A61,EX,A,7,Calle 19
+A61,EX,A,8,Temporal - Calle 22
+A61,EX,A,9,Temporal - Calle 34
+A61,EX,A,10,AV. 39
+A61,EX,A,11,Temporal - Calle 57
+A61,EX,A,12,Temporal - Flores
+A61,EX,A,13,Calle 72
+A61,EX,A,14,Polo - FINCOMERCIO
+B10,EX,B,1,Portal 80
+B10,EX,B,2,KR 90
+B10,EX,B,3,AV. Cali
+B10,EX,B,4,Granja - KR 77
+B10,EX,B,5,Boyacá
+B10,EX,B,6,AV. 68
+B10,EX,B,7,KR 53
+B10,EX,B,8,KR 47
+B10,EX,B,9,Calle 85 - GATO DUMAS
+B10,EX,B,10,Calle 100 - Marketmedios
+B10,EX,B,11,Alcalá - Col. S. Tomás Dominicos
+B10,EX,B,12,Calle 146
+B10,EX,B,13,Mazurén
+B10,EX,B,14,Toberín - Foundever
+B10,EX,B,15,Portal Norte
+B11,EX,B,1,Portal Sur - JFK Coop. financ.
+B11,EX,B,2,Paseo Villa del Río - Madelena
+B11,EX,B,3,Alquería
+B11,EX,B,4,NQS - Calle 30 Sur
+B11,EX,B,5,SENA
+B11,EX,B,6,Santa Isabel
+B11,EX,B,7,Ricaurte
+B11,EX,B,8,Paloquemao
+B11,EX,B,9,Campín - UAN
+B11,EX,B,10,Escuela Militar
+B11,EX,B,11,Héroes
+B11,EX,B,12,Calle 85 - GATO DUMAS
+B11,EX,B,13,Virrey
+B11,EX,B,14,Calle 106
+B11,EX,B,15,Calle 146
+B11,EX,B,16,Toberín - Foundever
+B11,EX,B,17,Calle 187
+B11,EX,B,18,Terminal
+B12,EX,B,1,Portal Sur - JFK Coop. financ.
+B12,EX,B,2,Perdomo
+B12,EX,B,3,Gral. Santander
+B12,EX,B,4,Comuneros
+B12,EX,B,5,Ricaurte
+B12,EX,B,6,AV. El Dorado
+B12,EX,B,7,U. Nacional
+B12,EX,B,8,7 de agosto
+B12,EX,B,9,NQS - Calle 75
+B12,EX,B,10,La Castellana
+B12,EX,B,11,Calle 100 - Marketmedios
+B12,EX,B,12,Calle 127
+B12,EX,B,13,Prado
+B12,EX,B,14,Calle 142
+B12,EX,B,15,Toberín - Foundever
+B12,EX,B,16,Portal Norte
+B13,EX,B,1,Portal Tunal
+B13,EX,B,2,Biblioteca
+B13,EX,B,3,Calle 40 Sur
+B13,EX,B,4,Quiroga
+B13,EX,B,5,Restrepo
+B13,EX,B,6,Hortúa
+B13,EX,B,7,Hospital
+B13,EX,B,8,Tercer Milenio
+B13,EX,B,9,Temporal - Calle 22
+B13,EX,B,10,AV. 39
+B13,EX,B,11,Calle 63
+B13,EX,B,12,Temporal - Flores
+B13,EX,B,13,Calle 72
+B13,EX,B,14,Calle 76
+B13,EX,B,15,Calle 85 - GATO DUMAS
+B13,EX,B,16,Calle 106
+B13,EX,B,17,Calle 127
+B13,EX,B,18,Calle 142
+B13,EX,B,19,Calle 146
+B13,EX,B,20,Mazurén
+B13,EX,B,21,Calle 161
+B13,EX,B,22,Portal Norte
+B16,EX,B,1,Portal Eldorado - C.C. NUESTRO BOGOTÁ
+B16,EX,B,2,Modelia
+B16,EX,B,3,AV. Rojas - UNISALESIANA
+B16,EX,B,4,El Tiempo - CCB
+B16,EX,B,5,Salitre - El Greco
+B16,EX,B,6,CAN - British Council
+B16,EX,B,7,Quinta Paredes
+B16,EX,B,8,Corferias
+B16,EX,B,9,AV. El Dorado
+B16,EX,B,10,AV. Chile
+B16,EX,B,11,Pepe Sierra
+B16,EX,B,12,Alcalá - Col. S. Tomás Dominicos
+B16,EX,B,13,Mazurén
+B16,EX,B,14,Toberín - Foundever
+B16,EX,B,15,Calle 187
+B16,EX,B,16,Terminal
+B18,EX,B,1,Portal 20 de Julio
+B18,EX,B,2,Country Sur
+B18,EX,B,3,AV. 1° de Mayo
+B18,EX,B,4,San Bernardo
+B18,EX,B,5,Bicentenario
+B18,EX,B,6,Tercer Milenio
+B18,EX,B,7,AV. Jiménez
+B18,EX,B,8,Temporal - Calle 34
+B18,EX,B,9,Calle 45 - American School Way
+B18,EX,B,10,Calle 63
+B18,EX,B,11,Calle 76
+B18,EX,B,12,Virrey
+B18,EX,B,13,Pepe Sierra
+B18,EX,B,14,Calle 127
+B18,EX,B,15,Alcalá - Col. S. Tomás Dominicos
+B18,EX,B,16,Calle 187
+B18,EX,B,17,Terminal
+B23,EX,B,1,Portal Eldorado - C.C. NUESTRO BOGOTÁ
+B23,EX,B,2,AV. Rojas - UNISALESIANA
+B23,EX,B,3,El Tiempo - CCB
+B23,EX,B,4,Salitre - El Greco
+B23,EX,B,5,CAN - British Council
+B23,EX,B,6,Gobernación
+B23,EX,B,7,C. Universitaria - Lotería de Btá.
+B23,EX,B,8,Concejo de Bogotá
+B23,EX,B,9,Calle 26
+B23,EX,B,10,Temporal - Calle 34
+B23,EX,B,11,Calle 45 - American School Way
+B23,EX,B,12,Temporal - Marly
+B23,EX,B,13,Temporal - Calle 57
+B23,EX,B,14,Calle 85 - GATO DUMAS
+B23,EX,B,15,Calle 127
+B23,EX,B,16,Prado
+B23,EX,B,17,Alcalá - Col. S. Tomás Dominicos
+B26,EX,B,1,Portal Américas
+B26,EX,B,2,Patio Bonito
+B26,EX,B,3,Biblioteca Tintal
+B26,EX,B,4,TV 86
+B26,EX,B,5,Banderas
+B26,EX,B,6,Mandalay
+B26,EX,B,7,AV. Américas - AV. Boyacá
+B26,EX,B,8,Héroes
+B26,EX,B,9,Calle 85 - GATO DUMAS
+B26,EX,B,10,Virrey
+B26,EX,B,11,Calle 100 - Marketmedios
+B26,EX,B,12,Calle 127
+B26,EX,B,13,Alcalá - Col. S. Tomás Dominicos
+B27,EX,B,1,Portal Tunal
+B27,EX,B,2,Calle 40S.
+B27,EX,B,3,AV. Jiménez
+B27,EX,B,4,Temporal - Calle 34
+B27,EX,B,5,Calle 72
+B27,EX,B,6,Héroes
+B27,EX,B,7,Calle 85 - GATO DUMAS
+B27,EX,B,8,Virrey
+B27,EX,B,9,Calle 100 - Marketmedios
+B27,EX,B,10,Toberín - Foundever
+B27,EX,B,11,Portal Norte
+B28,EX,B,1,Portal Américas
+B28,EX,B,2,Biblioteca Tintal
+B28,EX,B,3,Banderas
+B28,EX,B,4,Marsella
+B28,EX,B,5,Zona Industrial
+B28,EX,B,6,CDS - Cra. 32
+B28,EX,B,7,La Castellana
+B28,EX,B,8,Calle 106
+B28,EX,B,9,Pepe Sierra
+B28,EX,B,10,Prado
+B28,EX,B,11,Calle 146
+B28,EX,B,12,Calle 161
+B28,EX,B,13,Portal Norte
+B46,EX,B,1,San Mateo
+B46,EX,B,2,Terreros - Hospital C.V.
+B46,EX,B,3,León XIII
+B46,EX,B,4,La Despensa
+B46,EX,B,5,Bosa
+B46,EX,B,6,Calle 100 - Marketmedios
+B46,EX,B,7,Alcalá - Col. S. Tomás Dominicos
+B46,EX,B,8,Toberín - Foundever
+B46,EX,B,9,Portal Norte
+B50,EX,B,1,Portal Suba
+B50,EX,B,2,La Campiña
+B50,EX,B,3,Suba - TV 91
+B50,EX,B,4,21 Ángeles
+B50,EX,B,5,AV. Suba - Calle 116
+B50,EX,B,6,Puentelargo
+B50,EX,B,7,Rionegro
+B50,EX,B,8,Escuela Militar
+B50,EX,B,9,Héroes
+B50,EX,B,10,Calle 85 - GATO DUMAS
+B50,EX,B,11,Virrey
+B50,EX,B,12,Calle 142
+B50,EX,B,13,Calle 161
+B55,EX,B,1,Portal 80
+B55,EX,B,2,Quirigua
+B55,EX,B,3,AV. Cali
+B55,EX,B,4,Granja - KR 77
+B55,EX,B,5,Minuto de Dios
+B55,EX,B,6,Ferias
+B55,EX,B,7,Polo - FINCOMERCIO
+B55,EX,B,8,Héroes
+B55,EX,B,9,Virrey
+B55,EX,B,10,Calle 106
+B55,EX,B,11,Pepe Sierra
+B55,EX,B,12,Prado
+B55,EX,B,13,Calle 142
+B55,EX,B,14,Calle 161
+B55,EX,B,15,Toberín - Foundever
+B72,EX,B,1,Portal Usme
+B72,EX,B,2,Molinos
+B72,EX,B,3,Socorro
+B72,EX,B,4,Olaya
+B72,EX,B,5,Fucha
+B72,EX,B,6,Nariño
+B72,EX,B,7,Hospital
+B72,EX,B,8,Tygua-San José
+B72,EX,B,9,Paloquemao
+B72,EX,B,10,Movistar Arena
+B72,EX,B,11,AV. Chile
+B72,EX,B,12,La Castellana
+B72,EX,B,13,Pepe Sierra
+B72,EX,B,14,Alcalá - Col. S. Tomás Dominicos
+B72,EX,B,15,Mazurén
+B72,EX,B,16,Toberín - Foundever
+B74,EX,B,1,Universidades - CityU
+B74,EX,B,2,Calle 19
+B74,EX,B,3,Calle 26
+B74,EX,B,4,AV. 39
+B74,EX,B,5,Calle 45 - American School Way
+B74,EX,B,6,Temporal - Calle 57
+B74,EX,B,7,Héroes
+B74,EX,B,8,Virrey
+B74,EX,B,9,Prado
+B74,EX,B,10,Calle 142
+B74,EX,B,11,Calle 146
+B74,EX,B,12,Mazurén
+B74,EX,B,13,Toberín - Foundever
+B74,EX,B,14,Portal Norte
+B75,EX,B,1,Portal Usme
+B75,EX,B,2,Danubio
+B75,EX,B,3,Molinos
+B75,EX,B,4,Consuelo
+B75,EX,B,5,Socorro
+B75,EX,B,6,Santa Lucía
+B75,EX,B,7,Fucha
+B75,EX,B,8,Nariño
+B75,EX,B,9,Hortúa
+B75,EX,B,10,AV. Jiménez
+B75,EX,B,11,AV. 39
+B75,EX,B,12,Temporal - Marly
+B75,EX,B,13,Temporal - Calle 57
+B75,EX,B,14,Calle 63
+B75,EX,B,15,Calle 72
+B75,EX,B,16,Calle 76
+B75,EX,B,17,Héroes
+B75,EX,B,18,Calle 100 - Marketmedios
+B75,EX,B,19,Prado
+B75,EX,B,20,Calle 142
+B75,EX,B,21,Calle 146
+B75,EX,B,22,Toberín - Foundever
+B75,EX,B,23,Portal Norte
+C15,EX,C,1,Portal Tunal
+C15,EX,C,2,Parque
+C15,EX,C,3,Calle 40 S.
+C15,EX,C,4,Olaya
+C15,EX,C,5,Nariño
+C15,EX,C,6,Tercer Milenio
+C15,EX,C,7,AV. Jiménez
+C15,EX,C,8,Calle 19
+C15,EX,C,9,Temporal - Calle 22
+C15,EX,C,10,Calle 45 - American School Way
+C15,EX,C,11,Temporal - Marly
+C15,EX,C,12,Temporal - Calle 57
+C15,EX,C,13,Calle 76
+C15,EX,C,14,Rionegro
+C15,EX,C,15,AV. Suba - Calle 116
+C15,EX,C,16,Humedal Córdoba
+C15,EX,C,17,Niza - Calle 127
+C15,EX,C,18,Gratamira
+C15,EX,C,19,Suba - TV. 91
+C15,EX,C,20,La Campiña
+C15,EX,C,21,Portal Suba
+C25,EX,C,1,Portal 20 de Julio
+C25,EX,C,2,Country Sur
+C25,EX,C,3,AV 1° de Mayo
+C25,EX,C,4,San Bernardo
+C25,EX,C,5,Bicentenario
+C25,EX,C,6,Tygua - San José
+C25,EX,C,7,Guatoque - Veraguas
+C25,EX,C,8,Ricaurte
+C25,EX,C,9,Campín - UAN
+C25,EX,C,10,Movistar Arena
+C25,EX,C,11,AV. Chile
+C25,EX,C,12,NQS - Calle 75
+C25,EX,C,13,San Martín
+C25,EX,C,14,AV. Suba - Calle 95
+C25,EX,C,15,Niza - Calle 127
+C25,EX,C,16,Suba - AV. Boyacá
+C25,EX,C,17,21 Ángeles
+C25,EX,C,18,Suba - TV 91
+C25,EX,C,19,La Campiña
+C25,EX,C,20,Portal Suba
+C30,EX,C,1,Portal Sur - JFK Coop. financ.
+C30,EX,C,2,Venecia
+C30,EX,C,3,Gral. Santander
+C30,EX,C,4,NQS - Calle 38A Sur
+C30,EX,C,5,Santa Isabel
+C30,EX,C,6,CAD
+C30,EX,C,7,U. Nacional
+C30,EX,C,8,Movistar Arena
+C30,EX,C,9,Rionegro
+C30,EX,C,10,Puentelargo
+C30,EX,C,11,AV. Suba - Calle 116
+C30,EX,C,12,Suba - AV. Boyacá
+C30,EX,C,13,Suba - TV 91
+C30,EX,C,14,La Campiña
+C30,EX,C,15,Portal Suba
+C50,EX,C,1,Calle 161
+C50,EX,C,2,Calle 142
+C50,EX,C,3,Virrey
+C50,EX,C,4,Calle 85 - GATO DUMAS
+C50,EX,C,5,Héroes
+C50,EX,C,6,Escuela Militar
+C50,EX,C,7,Rionegro
+C50,EX,C,8,Puentelargo
+C50,EX,C,9,AV. Suba - Calle 116
+C50,EX,C,10,21 Ángeles
+C50,EX,C,11,Suba - TV 91
+C50,EX,C,12,La Campiña
+C50,EX,C,13,Portal Suba
+C73,EX,C,1,Universidades - CityU
+C73,EX,C,2,Centro Memoria
+C73,EX,C,3,C. Universitaria - Lotería de Btá.
+C73,EX,C,4,San Martín
+C73,EX,C,5,Suba - Calle 100
+C73,EX,C,6,Puentelargo
+C73,EX,C,7,Niza - Calle 127
+C73,EX,C,8,Suba - TV 91
+C73,EX,C,9,La Campiña
+C73,EX,C,10,Portal Suba
+D10,EX,D,1,Portal Norte
+D10,EX,D,2,Toberín - Foundever
+D10,EX,D,3,Mazurén
+D10,EX,D,4,Calle 146
+D10,EX,D,5,Alcalá - Col. S. Tomás Dominicos
+D10,EX,D,6,Calle 100 - Marketmedios
+D10,EX,D,7,Calle 85 - GATO DUMAS
+D10,EX,D,8,KR 47
+D10,EX,D,9,KR 53
+D10,EX,D,10,AV. 68
+D10,EX,D,11,Boyacá
+D10,EX,D,12,Granja - KR 77
+D10,EX,D,13,AV. Cali
+D10,EX,D,14,KR 90
+D10,EX,D,15,Portal 80
+D20,EX,D,1,Portal Usme
+D20,EX,D,2,Molinos
+D20,EX,D,3,Calle 40 S.
+D20,EX,D,4,Quiroga
+D20,EX,D,5,Olaya
+D20,EX,D,6,Restrepo
+D20,EX,D,7,Calle 19
+D20,EX,D,8,Temporal - Calle 22
+D20,EX,D,9,Calle 26
+D20,EX,D,10,Temporal - Calle 34
+D20,EX,D,11,Calle 45 - American School Way
+D20,EX,D,12,Calle 63
+D20,EX,D,13,Temporal - Flores
+D20,EX,D,14,Polo - FINCOMERCIO
+D20,EX,D,15,AV. 68
+D20,EX,D,16,Ferias
+D20,EX,D,17,Boyacá
+D20,EX,D,18,Granja - KR 77
+D20,EX,D,19,Quirigua
+D20,EX,D,20,Portal 80
+D21,EX,D,1,Portal Tunal
+D21,EX,D,2,Santa Lucía
+D21,EX,D,3,Calle 40 S.
+D21,EX,D,4,Quiroga
+D21,EX,D,5,Fucha
+D21,EX,D,6,Guatoque - Veraguas
+D21,EX,D,7,Ricaurte
+D21,EX,D,8,Campín - UAN
+D21,EX,D,9,Movistar Arena
+D21,EX,D,10,7 de agosto
+D21,EX,D,11,AV. 68
+D21,EX,D,12,Minuto de Dios
+D21,EX,D,13,Granja - KR 77
+D21,EX,D,14,AV. Cali
+D21,EX,D,15,KR 90
+D21,EX,D,16,Portal 80
+D22,EX,D,1,Portal Sur - JFK Coop. financ.
+D22,EX,D,2,Sevillana
+D22,EX,D,3,Gral. Santander
+D22,EX,D,4,SENA
+D22,EX,D,5,Santa Isabel
+D22,EX,D,6,Paloquemao
+D22,EX,D,7,AV. El Dorado
+D22,EX,D,8,U. Nacional
+D22,EX,D,9,AV. Chile
+D22,EX,D,10,NQS - Calle 75
+D22,EX,D,11,KR 47
+D22,EX,D,12,AV. 68
+D22,EX,D,13,Boyacá
+D22,EX,D,14,Minuto de Dios
+D22,EX,D,15,Granja - KR 77
+D22,EX,D,16,Portal 80
+D24,EX,D,1,Universidades - CityU
+D24,EX,D,2,AV. 39
+D24,EX,D,3,Temporal - Marly
+D24,EX,D,4,Temporal - Calle 57
+D24,EX,D,5,Calle 72
+D24,EX,D,6,Calle 76
+D24,EX,D,7,Escuela Militar
+D24,EX,D,8,KR 47
+D24,EX,D,9,Minuto de Dios
+D24,EX,D,10,Granja - KR 77
+D24,EX,D,11,AV. Cali
+D24,EX,D,12,KR. 90
+D24,EX,D,13,Portal 80
+D55,EX,D,1,Toberín - Foundever
+D55,EX,D,2,Calle 161
+D55,EX,D,3,Calle 142
+D55,EX,D,4,Prado
+D55,EX,D,5,Pepe Sierra
+D55,EX,D,6,Calle 106
+D55,EX,D,7,Virrey
+D55,EX,D,8,Héroes
+D55,EX,D,9,Polo - FINCOMERCIO
+D55,EX,D,10,Ferias
+D55,EX,D,11,Minuto de Dios
+D55,EX,D,12,Granja - KR 77
+D55,EX,D,13,AV. Cali
+D55,EX,D,14,Quirigua
+D55,EX,D,15,Portal 80
+E32,EX,E,1,Portal Américas
+E32,EX,E,2,TV 86
+E32,EX,E,3,Banderas
+E32,EX,E,4,AV. Américas - AV. Boyacá
+E32,EX,E,5,Puente Aranda
+E32,EX,E,6,Zona Industrial
+E32,EX,E,7,CAD
+E32,EX,E,8,AV. El Dorado
+E32,EX,E,9,U. Nacional
+E32,EX,E,10,7 de agosto
+E32,EX,E,11,AV. Chile
+E32,EX,E,12,NQS - Calle 75
+E42,EX,E,1,San Mateo
+E42,EX,E,2,Terreros - Hospital C.V.
+E42,EX,E,3,León XIII
+E42,EX,E,4,La Despensa
+E42,EX,E,5,Bosa
+E42,EX,E,6,Comuneros
+E42,EX,E,7,Paloquemao
+E42,EX,E,8,U. Nacional
+E42,EX,E,9,Campín - UAN
+E42,EX,E,10,7 de agosto
+E48,EX,E,1,San Mateo
+E48,EX,E,2,Terreros - Hospital C.V.
+E48,EX,E,3,León XIII
+E48,EX,E,4,La Despensa
+E48,EX,E,5,Bosa
+E48,EX,E,6,Sevillana
+E48,EX,E,7,Venecia
+E48,EX,E,8,Gral. Santander
+E48,EX,E,9,Santa Isabel
+E48,EX,E,10,Ricaurte
+E48,EX,E,11,CAD
+F19,EX,F,1,Portal Suba
+F19,EX,F,2,La Campiña
+F19,EX,F,3,Suba - TV 91
+F19,EX,F,4,21 Ángeles
+F19,EX,F,5,Suba - AV. Boyacá
+F19,EX,F,6,Puentelargo
+F19,EX,F,7,Suba - Calle 100
+F19,EX,F,8,Suba - Calle 95
+F19,EX,F,9,Calle 72
+F19,EX,F,10,Temporal - Flores
+F19,EX,F,11,Calle 63
+F19,EX,F,12,AV. 39
+F19,EX,F,13,Temporal - Calle 34
+F19,EX,F,14,Calle 26
+F19,EX,F,15,Calle 19
+F19,EX,F,16,De la Sabana
+F19,EX,F,17,Ricaurte
+F19,EX,F,18,CDS - Cra. 32
+F19,EX,F,19,Distrito Grafiti
+F19,EX,F,20,Marsella
+F19,EX,F,21,Mandalay
+F19,EX,F,22,Banderas
+F23,EX,F,1,Las Aguas - C. Col. Americano
+F23,EX,F,2,Museo del Oro
+F23,EX,F,3,AV. Jiménez
+F23,EX,F,4,San Façon - KR 22
+F23,EX,F,5,Ricaurte
+F23,EX,F,6,Puente Aranda
+F23,EX,F,7,Pradera - Plaza Central
+F23,EX,F,8,AV. Américas - AV. Boyacá
+F23,EX,F,9,Banderas
+F23,EX,F,10,Biblioteca Tintal
+F23,EX,F,11,Patio Bonito
+F23,EX,F,12,Portal Américas
+F26,EX,F,1,Alcalá - Col. S. Tomás Dominicos
+F26,EX,F,2,Calle 127
+F26,EX,F,3,Calle 100 - Marketmedios
+F26,EX,F,4,Virrey
+F26,EX,F,5,Calle 85 - GATO DUMAS
+F26,EX,F,6,Héroes
+F26,EX,F,7,AV. Américas - AV. Boyacá
+F26,EX,F,8,Mandalay
+F26,EX,F,9,Banderas
+F26,EX,F,10,TV 86
+F26,EX,F,11,Biblioteca Tintal
+F26,EX,F,12,Patio Bonito
+F26,EX,F,13,Portal Américas
+F28,EX,F,1,Portal Norte
+F28,EX,F,2,Calle 161
+F28,EX,F,3,Calle 146
+F28,EX,F,4,Prado
+F28,EX,F,5,Pepe Sierra
+F28,EX,F,6,Calle 106
+F28,EX,F,7,La Castellana
+F28,EX,F,8,CDS - Cra. 32
+F28,EX,F,9,Zona Industrial
+F28,EX,F,10,Marsella
+F28,EX,F,11,Banderas
+F28,EX,F,12,Biblioteca Tintal
+F28,EX,F,13,Portal Américas
+F32,EX,F,1,NQS - Calle 75
+F32,EX,F,2,AV. Chile
+F32,EX,F,3,7 de agosto
+F32,EX,F,4,U. Nacional
+F32,EX,F,5,AV. El Dorado
+F32,EX,F,6,CAD
+F32,EX,F,7,Zona Industrial
+F32,EX,F,8,Puente Aranda
+F32,EX,F,9,AV. Américas - AV. Boyacá
+F32,EX,F,10,Banderas
+F32,EX,F,11,TV 86
+F32,EX,F,12,Portal Américas
+F51,EX,F,1,Museo Nacional - FNG
+F51,EX,F,2,San Diego
+F51,EX,F,3,Las Nieves
+F51,EX,F,4,Ricaurte
+F51,EX,F,5,Distrito Grafiti
+F51,EX,F,6,Pradera - Plaza Central
+F51,EX,F,7,Marsella
+F51,EX,F,8,AV. Américas - AV. Boyacá
+F51,EX,F,9,Mandalay
+F51,EX,F,10,Banderas
+F51,EX,F,11,Biblioteca Tintal
+F51,EX,F,12,Patio Bonito
+F51,EX,F,13,Portal Américas
+F60,EX,F,1,Calle 76
+F60,EX,F,2,Calle 63
+F60,EX,F,3,Temporal - Marly
+F60,EX,F,4,Calle 45 - American School Way
+F60,EX,F,5,Temporal - Calle 34
+F60,EX,F,6,Calle 26
+F60,EX,F,7,De la Sabana
+F60,EX,F,8,Ricaurte
+F60,EX,F,9,KR 43 - COMAPAN
+F60,EX,F,10,Distrito Grafiti
+F60,EX,F,11,Banderas
+F60,EX,F,12,TV 86
+F60,EX,F,13,Portal Américas
+F61,EX,F,1,Polo - FINCOMERCIO
+F61,EX,F,2,Calle 72
+F61,EX,F,3,Temporal - Flores
+F61,EX,F,4,Temporal - Calle 57
+F61,EX,F,5,AV. 39
+F61,EX,F,6,Temporal - Calle 34
+F61,EX,F,7,Temporal - Calle 22
+F61,EX,F,8,Calle 19
+F61,EX,F,9,Zona Industrial
+F61,EX,F,10,Marsella
+F61,EX,F,11,Banderas
+F61,EX,F,12,Biblioteca Tintal
+F61,EX,F,13,Patio Bonito
+F61,EX,F,14,Portal Américas
+G11,EX,G,1,Terminal
+G11,EX,G,2,Calle 187
+G11,EX,G,3,Toberín - Foundever
+G11,EX,G,4,Calle 146
+G11,EX,G,5,Calle 106
+G11,EX,G,6,Virrey
+G11,EX,G,7,Calle 85 - GATO DUMAS
+G11,EX,G,8,Héroes
+G11,EX,G,9,Escuela Militar
+G11,EX,G,10,Campín - UAN
+G11,EX,G,11,Paloquemao
+G11,EX,G,12,Ricaurte
+G11,EX,G,13,Santa Isabel
+G11,EX,G,14,SENA
+G11,EX,G,15,NQS - Calle 30 Sur
+G11,EX,G,16,Alquería
+G11,EX,G,17,Paseo Villa del Río - Madelena
+G11,EX,G,18,Portal Sur - JFK Coop. financ.
+G12,EX,G,1,Portal Norte
+G12,EX,G,2,Toberín - Foundever
+G12,EX,G,3,Calle 142
+G12,EX,G,4,Prado
+G12,EX,G,5,Calle 127
+G12,EX,G,6,Calle 100 - Marketmedios
+G12,EX,G,7,La Castellana
+G12,EX,G,8,NQS - Calle 75
+G12,EX,G,9,7 de agosto
+G12,EX,G,10,U. Nacional
+G12,EX,G,11,AV. El Dorado
+G12,EX,G,12,Ricaurte
+G12,EX,G,13,Comuneros
+G12,EX,G,14,Gral. Santander
+G12,EX,G,15,Perdomo
+G12,EX,G,16,Portal Sur - JFK Coop. financ.
+G22,EX,G,1,Portal 80
+G22,EX,G,2,Granja - KR 77
+G22,EX,G,3,Minuto de Dios
+G22,EX,G,4,Boyacá
+G22,EX,G,5,AV. 68
+G22,EX,G,6,KR 47
+G22,EX,G,7,NQS - Calle 75
+G22,EX,G,8,AV. Chile
+G22,EX,G,9,U. Nacional
+G22,EX,G,10,AV. El Dorado
+G22,EX,G,11,Paloquemao
+G22,EX,G,12,Santa Isabel
+G22,EX,G,13,SENA
+G22,EX,G,14,Gral. Santander
+G22,EX,G,15,Sevillana
+G22,EX,G,16,Portal Sur - JFK Coop. financ.
+G30,EX,G,1,Portal Suba
+G30,EX,G,2,La Campiña
+G30,EX,G,3,Suba - TV 91
+G30,EX,G,4,Suba - AV. Boyacá
+G30,EX,G,5,AV. Suba - Calle 116
+G30,EX,G,6,Puentelargo
+G30,EX,G,7,Rionegro
+G30,EX,G,8,Movistar Arena
+G30,EX,G,9,U. Nacional
+G30,EX,G,10,CAD
+G30,EX,G,11,Santa Isabel
+G30,EX,G,12,NQS - Calle 38A Sur
+G30,EX,G,13,Gral. Santander
+G30,EX,G,14,Venecia
+G30,EX,G,15,Portal Sur - JFK Coop. financ.
+G41,EX,G,1,Bicentenario
+G41,EX,G,2,Tygua - San José
+G41,EX,G,3,Guatoque - Veraguas
+G41,EX,G,4,NQS - Calle 30 S.
+G41,EX,G,5,Alquería
+G41,EX,G,6,Bosa
+G41,EX,G,7,Terreros Hsp. C.V.
+G41,EX,G,8,San Mateo
+G42,EX,G,1,7 de agosto
+G42,EX,G,2,Campín - UAN
+G42,EX,G,3,U. Nacional
+G42,EX,G,4,Paloquemao
+G42,EX,G,5,Comuneros
+G42,EX,G,6,Bosa
+G42,EX,G,7,La Despensa
+G42,EX,G,8,León XIII
+G42,EX,G,9,Terreros - Hospital C.V.
+G42,EX,G,10,San Mateo
+G43,EX,G,1,Portal Eldorado - C.C. NUESTRO BOGOTÁ
+G43,EX,G,2,Modelia
+G43,EX,G,3,Normandía
+G43,EX,G,4,El Tiempo - CCB
+G43,EX,G,5,Salitre - El Greco
+G43,EX,G,6,Gobernación
+G43,EX,G,7,Quinta Paredes
+G43,EX,G,8,Corferias
+G43,EX,G,9,CAD
+G43,EX,G,10,Ricaurte
+G43,EX,G,11,SENA
+G43,EX,G,12,Gral. Santander
+G43,EX,G,13,Venecia
+G43,EX,G,14,La Despensa
+G43,EX,G,15,León XIII
+G43,EX,G,16,Terreros - Hospital C.V.
+G43,EX,G,17,San Mateo
+G45,EX,G,1,San Mateo
+G45,EX,G,2,Terreros - Hospital C.V.
+G45,EX,G,3,León XIII
+G45,EX,G,4,La Despensa
+G45,EX,G,5,Bosa
+G45,EX,G,6,Portal Sur - JFK Coop. financ.
+G46,EX,G,1,Portal Norte
+G46,EX,G,2,Toberín - Foundever
+G46,EX,G,3,Alcalá - Col. S. Tomás Dominicos
+G46,EX,G,4,Calle 100 - Marketmedios
+G46,EX,G,5,Bosa
+G46,EX,G,6,La Despensa
+G46,EX,G,7,León XIII
+G46,EX,G,8,Terreros - Hospital C.V.
+G46,EX,G,9,San Mateo
+G47,EX,G,1,Museo Nacional - FNG
+G47,EX,G,2,San Diego
+G47,EX,G,3,Las Nieves
+G47,EX,G,4,San Victorino
+G47,EX,G,5,Tygua-San José
+G47,EX,G,6,Guatoque-Veraguas
+G47,EX,G,7,Comuneros
+G47,EX,G,8,NQS - Calle 38A S.
+G47,EX,G,9,Sevillana
+G47,EX,G,10,Paseo Villa del Río - Madelena
+G47,EX,G,11,Perdomo
+G47,EX,G,12,Portal Sur - JFK Coop. financ.
+G48,EX,G,1,CAD
+G48,EX,G,2,Ricaurte
+G48,EX,G,3,Santa Isabel
+G48,EX,G,4,Gral. Santander
+G48,EX,G,5,Venecia
+G48,EX,G,6,Sevillana
+G48,EX,G,7,Bosa
+G48,EX,G,8,La Despensa
+G48,EX,G,9,León XIII
+G48,EX,G,10,Terreros - Hospital C.V.
+G48,EX,G,11,San Mateo
+G52,EX,G,1,Temporal - Flores
+G52,EX,G,2,Calle 76
+G52,EX,G,3,Santa Isabel
+G52,EX,G,4,NQS - Calle 30S.
+G52,EX,G,5,Gral. Santander
+G52,EX,G,6,Alquería
+G52,EX,G,7,Venecia
+G52,EX,G,8,Paseo Villa del Río - Madelena
+G52,EX,G,9,Perdomo
+G52,EX,G,10,Portal Sur - JFK Coop. financ.
+H13,EX,H,1,Portal Norte
+H13,EX,H,2,Calle 161
+H13,EX,H,3,Mazurén
+H13,EX,H,4,Calle 146
+H13,EX,H,5,Calle 142
+H13,EX,H,6,Calle 127
+H13,EX,H,7,Calle 106
+H13,EX,H,8,Calle 85 - GATO DUMAS
+H13,EX,H,9,Calle 76
+H13,EX,H,10,Calle 72
+H13,EX,H,11,Temporal - Flores
+H13,EX,H,12,Calle 63
+H13,EX,H,13,AV. 39
+H13,EX,H,14,Temporal - Calle 22
+H13,EX,H,15,Tercer Milenio
+H13,EX,H,16,Hospital
+H13,EX,H,17,Hortúa
+H13,EX,H,18,Restrepo
+H13,EX,H,19,Quiroga
+H13,EX,H,20,Calle 40 Sur
+H13,EX,H,21,Biblioteca
+H13,EX,H,22,Portal Tunal
+H15,EX,H,1,Portal Suba
+H15,EX,H,2,La Campiña
+H15,EX,H,3,Suba - TV. 91
+H15,EX,H,4,Gratamira
+H15,EX,H,5,Niza - Calle 127
+H15,EX,H,6,Humedal Córdoba
+H15,EX,H,7,AV. Suba - Calle 116
+H15,EX,H,8,Rionegro
+H15,EX,H,9,Calle 76
+H15,EX,H,10,Temporal - Calle 57
+H15,EX,H,11,Temporal - Marly
+H15,EX,H,12,Calle 45 - American School Way
+H15,EX,H,13,Temporal - Calle 22
+H15,EX,H,14,Calle 19
+H15,EX,H,15,AV. Jiménez
+H15,EX,H,16,Tercer Milenio
+H15,EX,H,17,Nariño
+H15,EX,H,18,Olaya
+H15,EX,H,19,Calle 40 S.
+H15,EX,H,20,Parque
+H15,EX,H,21,Portal Tunal
+H17,EX,H,1,Portal Suba
+H17,EX,H,2,La Campiña
+H17,EX,H,3,Suba - TV. 91
+H17,EX,H,4,Niza - Calle 127
+H17,EX,H,5,AV. Suba - Calle 116
+H17,EX,H,6,Puentelargo
+H17,EX,H,7,Suba - Calle 100
+H17,EX,H,8,Suba - Calle 95
+H17,EX,H,9,San Martín
+H17,EX,H,10,7 de agosto
+H17,EX,H,11,U. Nacional
+H17,EX,H,12,AV. El Dorado
+H17,EX,H,13,Paloquemao
+H17,EX,H,14,Guatoque - Veraguas
+H17,EX,H,15,Hortúa
+H17,EX,H,16,Restrepo
+H17,EX,H,17,Quiroga
+H17,EX,H,18,Santa Lucía
+H17,EX,H,19,Socorro
+H17,EX,H,20,Consuelo
+H17,EX,H,21,Danubio
+H17,EX,H,22,Portal Usme
+H20,EX,H,1,Portal 80
+H20,EX,H,2,Quirigua
+H20,EX,H,3,Granja - KR 77
+H20,EX,H,4,Boyacá
+H20,EX,H,5,Ferias
+H20,EX,H,6,AV. 68
+H20,EX,H,7,Polo - FINCOMERCIO
+H20,EX,H,8,Temporal - Flores
+H20,EX,H,9,Calle 63
+H20,EX,H,10,Calle 45 - American School Way
+H20,EX,H,11,Temporal - Calle 34
+H20,EX,H,12,Calle 26
+H20,EX,H,13,Temporal - Calle 22
+H20,EX,H,14,Calle 19
+H20,EX,H,15,AV. Jiménez
+H20,EX,H,16,Restrepo
+H20,EX,H,17,Olaya
+H20,EX,H,18,Quiroga
+H20,EX,H,19,Calle 40 S.
+H20,EX,H,20,Molinos
+H20,EX,H,21,Portal Usme
+H21,EX,H,1,Portal 80
+H21,EX,H,2,KR 90
+H21,EX,H,3,AV. Cali
+H21,EX,H,4,Granja - KR 77
+H21,EX,H,5,Minuto de Dios
+H21,EX,H,6,AV. 68
+H21,EX,H,7,7 de agosto
+H21,EX,H,8,Movistar Arena
+H21,EX,H,9,Campín - UAN
+H21,EX,H,10,Ricaurte
+H21,EX,H,11,Guatoque - Veraguas
+H21,EX,H,12,Fucha
+H21,EX,H,13,Quiroga
+H21,EX,H,14,Calle 40 S.
+H21,EX,H,15,Santa Lucía
+H21,EX,H,16,Portal Tunal
+H27,EX,H,1,Portal Norte
+H27,EX,H,2,Toberín - Foundever
+H27,EX,H,3,Calle 100 - Marketmedios
+H27,EX,H,4,Virrey
+H27,EX,H,5,Calle 85 - GATO DUMAS
+H27,EX,H,6,Héroes
+H27,EX,H,7,Calle 72
+H27,EX,H,8,Temporal - Calle 34
+H27,EX,H,9,AV. Jiménez
+H27,EX,H,10,Calle 40S.
+H27,EX,H,11,Portal Tunal
+H54,EX,H,1,Portal Eldorado - C.C. NUESTRO BOGOTÁ
+H54,EX,H,2,Modelia
+H54,EX,H,3,AV. Rojas - UNISALESIANA
+H54,EX,H,4,El Tiempo - CCB
+H54,EX,H,5,Salitre - El Greco
+H54,EX,H,6,CAN - British Council
+H54,EX,H,7,Quinta Paredes
+H54,EX,H,8,Corferias
+H54,EX,H,9,C. Universitaria - Lotería de Btá.
+H54,EX,H,10,Concejo de Bogotá
+H54,EX,H,11,AV. Jiménez
+H54,EX,H,12,Hortúa
+H54,EX,H,13,Restrepo
+H54,EX,H,14,Calle 40 S.
+H54,EX,H,15,Molinos
+H54,EX,H,16,Danubio
+H54,EX,H,17,Portal Usme
+H72,EX,H,1,Toberín - Foundever
+H72,EX,H,2,Mazurén
+H72,EX,H,3,Alcalá - Col S. Tomás Dominicos
+H72,EX,H,4,Pepe Sierra
+H72,EX,H,5,Castellana
+H72,EX,H,6,AV. Chile
+H72,EX,H,7,Movistar Arena
+H72,EX,H,8,Paloquemao
+H72,EX,H,9,Tygua-San José
+H72,EX,H,10,Hospital
+H72,EX,H,11,Nariño
+H72,EX,H,12,Fucha
+H72,EX,H,13,Olaya
+H72,EX,H,14,Socorro
+H72,EX,H,15,Molinos
+H72,EX,H,16,Portal Usme
+H75,EX,H,1,Portal Norte
+H75,EX,H,2,Toberín - Foundever
+H75,EX,H,3,Calle 146
+H75,EX,H,4,Calle 142
+H75,EX,H,5,Prado
+H75,EX,H,6,Calle 100 - Marketmedios
+H75,EX,H,7,Héroes
+H75,EX,H,8,Calle 76
+H75,EX,H,9,Calle 72
+H75,EX,H,10,Calle 63
+H75,EX,H,11,Temporal - Calle 57
+H75,EX,H,12,Temporal - Marly
+H75,EX,H,13,AV. 39
+H75,EX,H,14,AV. Jiménez
+H75,EX,H,15,Hortúa
+H75,EX,H,16,Nariño
+H75,EX,H,17,Fucha
+H75,EX,H,18,Santa Lucía
+H75,EX,H,19,Socorro
+H75,EX,H,20,Consuelo
+H75,EX,H,21,Molinos
+H75,EX,H,22,Danubio
+H75,EX,H,23,Portal Usme
+H76,EX,H,1,Universidades - CityU
+H76,EX,H,2,Calle 19
+H76,EX,H,3,AV. Jiménez
+H76,EX,H,4,Tercer Milenio
+H76,EX,H,5,Restrepo
+H76,EX,H,6,Calle 40 S.
+H76,EX,H,7,Santa Lucía
+H76,EX,H,8,Socorro
+H76,EX,H,9,Consuelo
+H76,EX,H,10,Molinos
+H76,EX,H,11,Danubio
+H76,EX,H,12,Portal Usme
+H83,EX,H,1,Portal Usme
+H83,EX,H,2,Danubio
+H83,EX,H,3,Consuelo
+H83,EX,H,4,Quiroga
+H83,EX,H,5,AV. 1° de Mayo
+H83,EX,H,6,Policarpa
+H83,EX,H,7,Bicentenario
+H83,EX,H,8,San Victorino
+H83,EX,H,9,San Diego
+H83,EX,H,10,Museo Nacional - FNG
+J23,EX,J,1,Portal Américas
+J23,EX,J,2,Patio Bonito
+J23,EX,J,3,Biblioteca Tintal
+J23,EX,J,4,Banderas
+J23,EX,J,5,AV. Américas - AV. Boyacá
+J23,EX,J,6,Pradera - Plaza Central
+J23,EX,J,7,Puente Aranda
+J23,EX,J,8,Ricaurte
+J23,EX,J,9,San Façon - KR 22
+J23,EX,J,10,AV. Jiménez
+J23,EX,J,11,Museo del Oro
+J23,EX,J,12,Las Aguas - C. Col Americano
+J24,EX,J,1,Portal 80
+J24,EX,J,2,KR. 90
+J24,EX,J,3,AV. Cali
+J24,EX,J,4,Granja - KR 77
+J24,EX,J,5,Minuto de Dios
+J24,EX,J,6,KR 47
+J24,EX,J,7,Escuela Militar
+J24,EX,J,8,Calle 76
+J24,EX,J,9,Calle 72
+J24,EX,J,10,Temporal - Calle 57
+J24,EX,J,11,Temporal - Marly
+J24,EX,J,12,AV. 39
+J24,EX,J,13,Universidades - CityU
+J70,EX,J,1,Portal Norte
+J70,EX,J,2,Toberín - Foundever
+J70,EX,J,3,Mazurén
+J70,EX,J,4,Calle 146
+J70,EX,J,5,Calle 142
+J70,EX,J,6,Alcalá - Col. S. Tomás Dominicos
+J70,EX,J,7,Prado
+J70,EX,J,8,Calle 127
+J70,EX,J,9,CAD
+J70,EX,J,10,AV. Jiménez
+J70,EX,J,11,Museo del Oro
+J70,EX,J,12,Las Aguas - C. Col Americano
+J73,EX,J,1,Portal Suba
+J73,EX,J,2,La Campiña
+J73,EX,J,3,Suba - TV 91
+J73,EX,J,4,Niza - Calle 127
+J73,EX,J,5,Puentelargo
+J73,EX,J,6,Suba - Calle 100
+J73,EX,J,7,San Martín
+J73,EX,J,8,C. Universitaria - Lotería de Btá.
+J73,EX,J,9,Centro Memoria
+J73,EX,J,10,Universidades - CityU
+J74,EX,J,1,Portal Norte
+J74,EX,J,2,Toberín - Foundever
+J74,EX,J,3,Mazurén
+J74,EX,J,4,Calle 146
+J74,EX,J,5,Calle 142
+J74,EX,J,6,Prado
+J74,EX,J,7,Virrey
+J74,EX,J,8,Héroes
+J74,EX,J,9,Temporal - Calle 57
+J74,EX,J,10,Calle 45 - American School Way
+J74,EX,J,11,AV. 39
+J74,EX,J,12,Calle 26
+J74,EX,J,13,Calle 19
+J74,EX,J,14,Universidades - CityU
+J76,EX,J,1,Portal Usme
+J76,EX,J,2,Danubio
+J76,EX,J,3,Consuelo
+J76,EX,J,4,Socorro
+J76,EX,J,5,Santa Lucía
+J76,EX,J,6,Calle 40 S.
+J76,EX,J,7,Restrepo
+J76,EX,J,8,Tercer Milenio
+J76,EX,J,9,AV. Jiménez
+J76,EX,J,10,Calle 19
+J76,EX,J,11,Universidades - CityU
+K10,EX,K,1,Portal 20 de Julio
+K10,EX,K,2,AV. 1° de Mayo
+K10,EX,K,3,Ciudad Jardín - UAN
+K10,EX,K,4,San Bernardo
+K10,EX,K,5,Bicentenario
+K10,EX,K,6,San Victorino
+K10,EX,K,7,Las Nieves
+K10,EX,K,8,Centro Memoria
+K10,EX,K,9,C. Universitaria - Lotería de Btá.
+K10,EX,K,10,Gobernación
+K10,EX,K,11,CAN - British Council
+K10,EX,K,12,Salitre - El Greco
+K10,EX,K,13,Normandía
+K10,EX,K,14,Modelia
+K10,EX,K,15,Portal Eldorado - C.C. NUESTRO BOGOTÁ
+K16,EX,K,1,Terminal
+K16,EX,K,2,Calle 187
+K16,EX,K,3,Toberín - Foundever
+K16,EX,K,4,Mazurén
+K16,EX,K,5,Alcalá - Col. S. Tomás Dominicos
+K16,EX,K,6,Pepe Sierra
+K16,EX,K,7,AV. Chile
+K16,EX,K,8,AV. El Dorado
+K16,EX,K,9,Corferias
+K16,EX,K,10,Quinta Paredes
+K16,EX,K,11,Gobernación
+K16,EX,K,12,CAN - British Council
+K16,EX,K,13,Salitre - El Greco
+K16,EX,K,14,El Tiempo - CCB
+K16,EX,K,15,AV. Rojas - UNISALESIANA
+K16,EX,K,16,Modelia
+K16,EX,K,17,Portal Eldorado - C.C. NUESTRO BOGOTÁ
+K23,EX,K,1,Alcalá - Col. S. Tomás Dominicos
+K23,EX,K,2,Prado
+K23,EX,K,3,Calle 127
+K23,EX,K,4,Calle 85 - GATO DUMAS
+K23,EX,K,5,Temporal - Calle 57
+K23,EX,K,6,Temporal - Marly
+K23,EX,K,7,Calle 45 - American School Way
+K23,EX,K,8,Temporal - Calle 34
+K23,EX,K,9,Calle 26
+K23,EX,K,10,Concejo de Bogotá
+K23,EX,K,11,C. Universitaria - Lotería de Btá.
+K23,EX,K,12,Gobernación
+K23,EX,K,13,CAN - British Council
+K23,EX,K,14,Salitre - El Greco
+K23,EX,K,15,El Tiempo - CCB
+K23,EX,K,16,AV. Rojas - UNISALESIANA
+K23,EX,K,17,Portal Eldorado - C.C. NUESTRO BOGOTÁ
+K43,EX,K,1,San Mateo
+K43,EX,K,2,Terreros - Hospital C.V.
+K43,EX,K,3,León XIII
+K43,EX,K,4,La Despensa
+K43,EX,K,5,Venecia
+K43,EX,K,6,Gral. Santander
+K43,EX,K,7,SENA
+K43,EX,K,8,Ricaurte
+K43,EX,K,9,CAD
+K43,EX,K,10,Corferias
+K43,EX,K,11,Quinta Paredes
+K43,EX,K,12,Gobernación
+K43,EX,K,13,Salitre - El Greco
+K43,EX,K,14,El Tiempo - CCB
+K43,EX,K,15,Normandía
+K43,EX,K,16,Modelia
+K43,EX,K,17,Portal Eldorado - C.C. NUESTRO BOGOTÁ
+K54,EX,K,1,Portal Usme
+K54,EX,K,2,Danubio
+K54,EX,K,3,Molinos
+K54,EX,K,4,Calle 40 S.
+K54,EX,K,5,Restrepo
+K54,EX,K,6,Hortúa
+K54,EX,K,7,AV. Jiménez
+K54,EX,K,8,Concejo de Bogotá
+K54,EX,K,9,C. Universitaria - Lotería de Btá.
+K54,EX,K,10,Corferias
+K54,EX,K,11,Quinta Paredes
+K54,EX,K,12,CAN - British Council
+K54,EX,K,13,Salitre - El Greco
+K54,EX,K,14,El Tiempo - CCB
+K54,EX,K,15,AV. Rojas - UNISALESIANA
+K54,EX,K,16,Modelia
+K54,EX,K,17,Portal Eldorado - C.C. NUESTRO BOGOTÁ
+K86,EX,K,1,AK 7 - CL 118
+K86,EX,K,2,AK 7 - CL 116
+K86,EX,K,3,AK 7 - CL 101
+K86,EX,K,4,AK 7 - CL 94
+K86,EX,K,5,AK 7 - CL 90
+K86,EX,K,6,AK 7 - CL 86
+K86,EX,K,7,AK 7 - CL 81
+K86,EX,K,8,AK 7 - CL 74
+K86,EX,K,9,AK 7 - CL 71
+K86,EX,K,10,AK 7 - CL 66
+K86,EX,K,11,AK 7 - CL 60
+K86,EX,K,12,AK 7 - CL 55
+K86,EX,K,13,AK 7 - CL 51
+K86,EX,K,14,AK 7 - CL 40
+K86,EX,K,15,Museo Nacional - FNG
+K86,EX,K,16,Concejo de Bogotá
+K86,EX,K,17,Corferias
+K86,EX,K,18,Gobernación
+K86,EX,K,19,CAN - British Council
+K86,EX,K,20,El Tiempo - CCB
+K86,EX,K,21,AV. Rojas - UNISALESIANA
+K86,EX,K,22,Portal Eldorado- C.C. NUESTRO BOGOTÁ
+K86,EX,K,23,AC 26 KR 103
+K86,EX,K,24,Puente Aéreo
+K86,EX,K,25,AC 26 KR 106
+K86,EX,K,26,Aeropuerto El Dorado
+L10,EX,L,1,Portal Eldorado - C.C. NUESTRO BOGOTÁ
+L10,EX,L,2,Modelia
+L10,EX,L,3,Normandía
+L10,EX,L,4,Salitre - El Greco
+L10,EX,L,5,CAN - British Council
+L10,EX,L,6,Gobernación
+L10,EX,L,7,C. Universitaria - Lotería de Btá.
+L10,EX,L,8,Centro Memoria
+L10,EX,L,9,Las Nieves
+L10,EX,L,10,San Victorino
+L10,EX,L,11,Bicentenario
+L10,EX,L,12,San Bernardo
+L10,EX,L,13,Ciudad Jardín - UAN
+L10,EX,L,14,AV. 1° de Mayo
+L10,EX,L,15,Portal 20 de Julio
+L18,EX,L,1,Terminal
+L18,EX,L,2,Calle 187
+L18,EX,L,3,Alcalá - Col. S. Tomás Dominicos
+L18,EX,L,4,Calle 127
+L18,EX,L,5,Pepe Sierra
+L18,EX,L,6,Virrey
+L18,EX,L,7,Calle 76
+L18,EX,L,8,Calle 63
+L18,EX,L,9,Calle 45 - American School Way
+L18,EX,L,10,Temporal - Calle 34
+L18,EX,L,11,AV. Jiménez
+L18,EX,L,12,Tercer Milenio
+L18,EX,L,13,Bicentenario
+L18,EX,L,14,San Bernardo
+L18,EX,L,15,AV. 1° de Mayo
+L18,EX,L,16,Country Sur
+L18,EX,L,17,Portal 20 de Julio
+L25,EX,L,1,Portal Suba
+L25,EX,L,2,La Campiña
+L25,EX,L,3,Suba - TV. 91
+L25,EX,L,4,21 Ángeles
+L25,EX,L,5,Suba - AV. Boyacá
+L25,EX,L,6,Niza - Calle 127
+L25,EX,L,7,AV. Suba - Calle 95
+L25,EX,L,8,San Martín
+L25,EX,L,9,NQS - Calle 75
+L25,EX,L,10,AV. Chile
+L25,EX,L,11,Movistar Arena
+L25,EX,L,12,Campín - UAN
+L25,EX,L,13,Ricaurte
+L25,EX,L,14,Guatoque - Veraguas
+L25,EX,L,15,Tygua - San José
+L25,EX,L,16,Bicentenario
+L25,EX,L,17,San Bernardo
+L25,EX,L,18,AV 1° de Mayo
+L25,EX,L,19,Country Sur
+L25,EX,L,20,Portal 20 de Julio
+L81,DU,M,1,AC 80 - KR 119
+L81,DU,M,2,AC 80 - KR 114
+L81,DU,M,3,AC 80 - KR 112Bis
+L81,DU,M,4,AC 80 - KR 110
+L81,DU,M,5,AC 80 - TV. 106
+L81,DU,M,6,AV. 68
+L81,DU,M,7,KR 47
+L81,DU,M,8,Polo - FINCOMERCIO
+L81,DU,M,9,AC 85 - KR 13
+L81,DU,M,10,KR 11 - CL 78
+L81,DU,M,11,AC 72 - KR 10
+L81,DU,M,12,AK 7 - CL 71
+L81,DU,M,13,AK 7 - CL 66
+L81,DU,M,14,AK 7 - CL 61
+L81,DU,M,15,AK 7 - CL 56
+L81,DU,M,16,AK 7 - CL 51
+L81,DU,M,17,AK 7 - CL 45
+L81,DU,M,18,AK 7 - CL 40
+L81,DU,M,19,AK 7 - CL 36
+L81,DU,M,20,AK 7 - CL 33
+L81,DU,M,21,Museo Nacional - FNG
+L81,DU,M,22,San Victorino
+L81,DU,M,23,Bicentenario
+L81,DU,M,24,AV. 1° de Mayo
+L81,DU,M,25,Country Sur
+L81,DU,M,26,Portal 20 de Julio
+L82,DU,M,1,AK 7 - AC 134
+L82,DU,M,2,AK 7 - CL 132
+L82,DU,M,3,AK 7 - CL 127B
+L82,DU,M,4,AK 7 - CL 124
+L82,DU,M,5,AK 7 - CL 118
+L82,DU,M,6,AK 7 - CL 116
+L82,DU,M,7,AK 7 - CL 110
+L82,DU,M,8,AK 7 - CL 106
+L82,DU,M,9,AK 7 - CL 101
+L82,DU,M,10,AK 7 - CL 97A
+L82,DU,M,11,AK 7 - CL 94
+L82,DU,M,12,AK 7 - CL 90
+L82,DU,M,13,AK 7 - CL 79
+L82,DU,M,14,AK 7 - CL 74
+L82,DU,M,15,San Diego
+L82,DU,M,16,Bicentenario
+L82,DU,M,17,AV. 1° de Mayo
+L82,DU,M,18,Country Sur
+L82,DU,M,19,Portal 20 de Julio
+M82,DU,M,1,Portal 20 de Julio
+M82,DU,M,2,Country Sur
+M82,DU,M,3,AV. 1° de Mayo
+M82,DU,M,4,Bicentenario
+M82,DU,M,5,San Diego
+M82,DU,M,6,AK 7 - CL 78
+M82,DU,M,7,AK 7 - CL 92
+M82,DU,M,8,AK 7 - CL 94
+M82,DU,M,9,AK 7 - CL 100
+M82,DU,M,10,AK 7 - CL 106
+M82,DU,M,11,AK 7 - CL 110
+M82,DU,M,12,AK 7 - CL 116
+M82,DU,M,13,AK 7 - CL 119B
+M82,DU,M,14,AK 7 - CL 124
+M82,DU,M,15,AK 7 - CL 127B
+M82,DU,M,16,AK 7 - CL 130B
+M82,DU,M,17,AK 7 - AC 134
+M83,DU,M,1,Portal Usme
+M83,DU,M,2,Danubio
+M83,DU,M,3,Consuelo
+M83,DU,M,4,Quiroga
+M83,DU,M,5,AV. 1° de Mayo
+M83,DU,M,6,Policarpa
+M83,DU,M,7,Bicentenario
+M83,DU,M,8,San Victorino
+M83,DU,M,9,San Diego
+M83,DU,M,10,Museo Nacional - FNG
+M84,DU,M,1,AV. Suba - KR 114D
+M84,DU,M,2,AV. Suba - KR 110
+M84,DU,M,3,21 Ángeles
+M84,DU,M,4,Puentelargo
+M84,DU,M,5,Polo - FINCOMERCIO
+M84,DU,M,6,CL 85 - KR 16A
+M84,DU,M,7,CL 85 - KR 11
+M84,DU,M,8,KR 11 - CL 78
+M84,DU,M,9,CL 72 - KR 10
+M84,DU,M,10,KR 7 - CL 73
+M85,DU,P,1,AK 68 - CL 9A
+M85,DU,P,2,AK 68 - CL 12
+M85,DU,P,3,AK 68 - CL 13
+M85,DU,P,4,AK 68 - CL 19
+M85,DU,P,5,Salitre - El Greco
+M85,DU,P,6,CAN - British Council
+M85,DU,P,7,Quinta Paredes
+M85,DU,P,8,Centro Memoria
+M85,DU,P,9,Museo Nacional - FNG
+M86,EX,K,1,Portal Eldorado - C.C. NUESTRO BOGOTÁ
+M86,EX,K,2,AV. Rojas - UNISALESIANA
+M86,EX,K,3,El Tiempo - CCB
+M86,EX,K,4,CAN - British Council
+M86,EX,K,5,Gobernación
+M86,EX,K,6,Corferias
+M86,EX,K,7,Concejo de Bogotá
+M86,EX,K,8,San Diego
+M86,EX,K,9,Museo Nacional - FNG
+M86,EX,K,10,AK 7 - CL 40
+M86,EX,K,11,AK 7 - CL 50
+M86,EX,K,12,AK 7 - CL 57
+M86,EX,K,13,AK 7 - CL 61
+M86,EX,K,14,AK 7 - CL 66
+M86,EX,K,15,AK 7 - CL 70A
+M86,EX,K,16,AK 7 - CL 82
+M86,EX,K,17,AK 7 - CL 87
+M86,EX,K,18,AK 7 - CL 92
+M86,EX,K,19,AK 7 - CL 94
+M86,EX,K,20,AK 7 - CL 100
+M86,EX,K,21,AK 7 - CL 116
+P85,DU,P,1,Museo Nacional - FNG
+P85,DU,P,2,San Diego
+P85,DU,P,3,San Victorino
+P85,DU,P,4,Bicentenario
+P85,DU,P,5,Policarpa
+P85,DU,P,6,AV. 1° de Mayo
+P85,DU,P,7,Quiroga
+P85,DU,P,8,Consuelo
+P85,DU,P,9,Danubio
+P85,DU,P,10,Portal Usme
+C17,EX,C,1,Portal Usme
+C17,EX,C,2,Danubio
+C17,EX,C,3,Consuelo
+C17,EX,C,4,Socorro
+C17,EX,C,5,Santa Lucía
+C17,EX,C,6,Quiroga
+C17,EX,C,7,Restrepo
+C17,EX,C,8,Hortúa
+C17,EX,C,9,Guatoque - Veraguas
+C17,EX,C,10,Paloquemao
+C17,EX,C,11,AV. El Dorado
+C17,EX,C,12,U. Nacional
+C17,EX,C,13,7 de agosto
+C17,EX,C,14,San Martín
+C17,EX,C,15,Suba - Calle 95
+C17,EX,C,16,Suba - Calle 100
+C17,EX,C,17,Puentelargo
+C17,EX,C,18,AV. Suba - Calle 116
+C17,EX,C,19,Niza - Calle 127
+C17,EX,C,20,Suba - TV 91
+C17,EX,C,21,La Campiña
+C17,EX,C,22,Portal Suba
+D81,DU,D/M,1,Portal 20 de Julio
+D81,DU,D/M,2,Country Sur
+D81,DU,D/M,3,AV. 1° de Mayo
+D81,DU,D/M,4,Bicentenario
+D81,DU,D/M,5,San Victorino
+D81,DU,D/M,6,Museo Nacional - FNG
+D81,DU,D/M,7,AK 7 - CL 34
+D81,DU,D/M,8,AK 7 - CL 37
+D81,DU,D/M,9,AK 7 - CL 40
+D81,DU,D/M,10,AK 7 - CL 45
+D81,DU,D/M,11,AK 7 - CL 50
+D81,DU,D/M,12,AK 7 - CL 57
+D81,DU,D/M,13,AK 7 - CL 61
+D81,DU,D/M,14,AK 7 - CL 66
+D81,DU,D/M,15,AK 7 - CL 70A
+D81,DU,D/M,16,AK 7 - CL 73
+D81,DU,D/M,17,CL 76 - KR 11
+D81,DU,D/M,18,Polo - FINCOMERCIO
+D81,DU,D/M,19,KR 47
+D81,DU,D/M,20,AV. 68
+D81,DU,D/M,21,AC 80 - KR 107
+D81,DU,D/M,22,AC 80 - KR 109A
+D81,DU,D/M,23,AC 80 - KR 111C
+D81,DU,D/M,24,AC 80 - KR 114
