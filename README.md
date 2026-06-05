@@ -34,7 +34,7 @@ tesis-transmilenio/
 ├── outputs/
 │   ├── figuras/                     # figuras exportadas (.png)
 │   └── tablas/                      # icp_estaciones, conglomerados_estaciones, metricas_modelo
-└── arcgis/                          # capa geográfica de estaciones/corredores (.gpkg, .geojson)
+└── mapa_geo/                          # capa geográfica de estaciones/corredores (.gpkg, .geojson)
 ```
 
 ## Orden de ejecución
