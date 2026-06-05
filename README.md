@@ -26,7 +26,8 @@ tesis-transmilenio/
 │   ├── 03_OE4_conglomerados.ipynb       # OE4  conglomerados + validación
 │   └── 04_OE5_modelo_XGBoost.ipynb      # OE5  modelo y anticipación de picos
 ├── scripts/
-│   └── generar_code_to_matriz.py        # reconstruye el mapeo código→estación
+│   ├── generar_code_to_matriz.py        # reconstruye el mapeo código→estación
+|   └── verificar_mapeo.py               # verifica que los códigos y las estaciones en la matriz estén correctos 
 ├── data/
 │   ├── raw/                         # 24 .xlsx de validaciones (NO versionado — ver README interno)
 │   ├── soporte/                     # matriz de paradas, servicios, catálogo, diccionarios
