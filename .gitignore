@@ -1,1 +1,39 @@
-"ipd_completo.csv" 
+# ============================================================
+#  Datos pesados — NO van a GitHub (se descargan o se regeneran)
+# ============================================================
+# Validaciones mensuales TuLlave (~330 MB) — descargar del portal de datos abiertos
+data/raw/*.xlsx
+data/raw/*.xls
+
+# Panel IPD completo (~590 MB) — supera el límite de GitHub; se regenera con 02_OE2-OE3_ICP_IPD
+ipd_completo.csv
+outputs/tablas/ipd_completo.csv
+
+# Tablas intermedias generadas al correr los cuadernos
+data/intermedia/
+*.parquet
+
+# ============================================================
+#  Versiones viejas archivadas (quita esta línea si quieres versionarlas)
+# ============================================================
+_archivo/
+
+# ============================================================
+#  Python / Jupyter
+# ============================================================
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.python-version
+
+# ============================================================
+#  Sistema operativo / editores
+# ============================================================
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
