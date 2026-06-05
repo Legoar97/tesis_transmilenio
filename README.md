@@ -1,9 +1,9 @@
-# Desbalance entre cobertura y demanda en la red troncal de TransMilenio (2024–2025)
+# Desbalance Oferta-Demanda en el Componente Troncal de TransMilenio Mediante Ciencia de Datos
 
 Trabajo de grado — **Ciencia de Datos, Universidad Externado de Colombia**
 Autor: **Iván Ramiro Pinzón Pinto** · Directora: **Yessica Velásquez**
 
-# Desbalance Oferta-Demanda en el Componente Troncal de TransMilenio Mediante Ciencia de Datos
+Análisis del desbalance entre la **cobertura de servicio asignada** y la **demanda de pasajeros** en las estaciones del componente troncal de TransMilenio, a partir de 24 meses de validaciones de la tarjeta TuLlave (enero 2024 – diciembre 2025).
 
 > **Pregunta de investigación.** ¿En qué estaciones y franjas horarias del componente troncal de TransMilenio existe un desbalance entre la cobertura de servicio asignada y la demanda de pasajeros durante el periodo 2024–2025?
 
