@@ -21,10 +21,10 @@ tesis-transmilenio/
 ├── .gitignore
 ├── notebooks/                       # se corren EN ORDEN; cada uno carga lo del anterior
 │   ├── 00_preparacion_datos.ipynb       # §3.1–3.3  consolida 24 meses + mapeo por código
-│   ├── 01_OE1_patrones.ipynb            # OE1  patrones espaciotemporales
-│   ├── 02_OE2-OE3_ICP_IPD.ipynb         # OE2/OE3  ICP, IPD y sensibilidad del piso V
-│   ├── 03_OE4_conglomerados.ipynb       # OE4  conglomerados + validación
-│   └── 04_OE5_modelo_XGBoost.ipynb      # OE5  modelo y anticipación de picos
+│   ├── 01_OE1_patrones.ipynb            # Obj. Espec.1  patrones espaciotemporales
+│   ├── 02_OE2-OE3_ICP_IPD.ipynb         # Obj. Espec.2/Obj. Espec.3  ICP, IPD y sensibilidad del piso V
+│   ├── 03_OE4_conglomerados.ipynb       # Obj. Espec.4  conglomerados + validación
+│   └── 04_OE5_modelo_XGBoost.ipynb      # Obj. Espec.5  modelo y anticipación de picos
 ├── scripts/
 │   ├── generar_code_to_matriz.py        # reconstruye el mapeo código→estación
 |   └── verificar_mapeo.py               # verifica que los códigos y las estaciones en la matriz estén correctos 
@@ -45,10 +45,10 @@ Los cuadernos se ejecutan **en secuencia**: cada uno guarda un `.parquet` en `da
 | # | Cuaderno | Objetivo | Carga | Guarda |
 |---|----------|----------|-------|--------|
 | 00 | `00_preparacion_datos` | §3.1–3.3 | Excel de validaciones + CSV de soporte | `validaciones_consolidadas`, `matriz_estandarizada`, `troncal_serv` |
-| 01 | `01_OE1_patrones` | OE1 | `validaciones_consolidadas` | figuras |
-| 02 | `02_OE2-OE3_ICP_IPD` | OE2, OE3 | `matriz_estandarizada`, `troncal_serv`, `validaciones_consolidadas` | `panel_icp_ipd`, `icp` |
-| 03 | `03_OE4_conglomerados` | OE4 | `panel_icp_ipd` | `panel_con_clusters`, `cluster_df` |
-| 04 | `04_OE5_modelo_XGBoost` | OE5 | `panel_con_clusters`, `cluster_df`, `icp` | métricas + tablas finales |
+| 01 | `01_OE1_patrones` | Obj. Espec.1 | `validaciones_consolidadas` | figuras |
+| 02 | `02_OE2-OE3_ICP_IPD` | Obj. Espec.2, Obj. Espec.3 | `matriz_estandarizada`, `troncal_serv`, `validaciones_consolidadas` | `panel_icp_ipd`, `icp` |
+| 03 | `03_OE4_conglomerados` | Obj. Espec.4 | `panel_icp_ipd` | `panel_con_clusters`, `cluster_df` |
+| 04 | `04_OE5_modelo_XGBoost` | Obj. Espec.5 | `panel_con_clusters`, `cluster_df`, `icp` | métricas + tablas finales |
 
 ## Datos
 
@@ -73,6 +73,6 @@ pip install -r requirements.txt
 
 | Fecha | Entrega |
 |-------|---------|
-| 12 jun | 00 + 01 + 02 — OE1, OE2, OE3 |
-| 19 jun | 03 — OE4 (conglomerados + robustez) |
-| 26 jun | 04 — OE5 (validación cruzada, hiperparámetros, métricas desagregadas) |
+| 12 jun | 00 + 01 + 02 — Obj. Espec.1, Obj. Espec.2, Obj. Espec.3 |
+| 19 jun | 03 — Obj. Espec.4 (conglomerados + robustez) |
+| 26 jun | 04 — Obj. Espec.5 (validación cruzada, hiperparámetros, métricas desagregadas) |
