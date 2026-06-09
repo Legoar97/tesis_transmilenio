@@ -28,6 +28,7 @@ tesis-transmilenio/
 ├── scripts/
 │   ├── generar_code_to_matriz.py        # reconstruye el mapeo código→estación
 │   ├── verificar_mapeo.py               # verifica el mapeo contra el catálogo oficial (por código)
+|   |── generar_code_to_matriz.py.py     # genera la matriz de código y estación       
 │   └── construir_matriz_ruta_estacion.py  # construye/audita la matriz ruta-estación (--check)
 ├── data/
 │   ├── raw/                         # 24 .xlsx de validaciones (NO versionado — ver README interno)
