@@ -1,0 +1,1461 @@
+ruta,tipo,corredor,orden,estacion,capacidad
+1,Fácil,Calle 26,1,Universidades - CityU,250
+1,Fácil,Calle 26,2,Centro Memoria,250
+1,Fácil,Calle 26,3,Concejo de Bogotá,250
+1,Fácil,Calle 26,4,C. Universitaria - Lotería de Btá.,250
+1,Fácil,Calle 26,5,Corferias,250
+1,Fácil,Calle 26,6,Quinta Paredes,250
+1,Fácil,Calle 26,7,Gobernación,250
+1,Fácil,Calle 26,8,CAN - British Council,250
+1,Fácil,Calle 26,9,Salitre - El Greco,250
+1,Fácil,Calle 26,10,El Tiempo - CCB,250
+1,Fácil,Calle 26,11,AV. Rojas - UNISALESIANA,250
+1,Fácil,Calle 26,12,Normandía,250
+1,Fácil,Calle 26,13,Modelia,250
+1,Fácil,Calle 26,14,Portal Eldorado - C.C. NUESTRO BOGOTÁ,250
+2,Fácil,Carrera 7,1,Museo Nacional - FNG,250
+2,Fácil,Carrera 10,2,San Diego,250
+2,Fácil,Carrera 10,3,Las Nieves,250
+2,Fácil,Carrera 10,4,San Victorino,250
+2,Fácil,Carrera 10,5,Bicentenario,250
+2,Fácil,Carrera 10,6,San Bernardo,250
+2,Fácil,Carrera 10,7,Policarpa,250
+2,Fácil,Carrera 10,8,Ciudad Jardín - UAN,250
+2,Fácil,Carrera 10,9,AV. 1° Mayo,250
+2,Fácil,Carrera 10,10,Country Sur,250
+2,Fácil,Carrera 10,11,Portal 20 de Julio,250
+3,Fácil,Caracas Sur,1,Portal Tunal,160
+3,Fácil,Caracas Sur,2,Parque,160
+3,Fácil,Caracas Sur,3,Biblioteca,160
+3,Fácil,Caracas Sur,4,Santa Lucía,160
+3,Fácil,Caracas Sur,5,Calle 40 Sur,160
+3,Fácil,Caracas Sur,6,Quiroga,160
+3,Fácil,Caracas Sur,7,Olaya,160
+3,Fácil,Caracas Sur,8,Restrepo,160
+3,Fácil,Caracas Sur,9,Fucha,160
+3,Fácil,Caracas Sur,10,Nariño,160
+3,Fácil,Caracas Sur,11,Hortúa,160
+3,Fácil,Caracas Sur,12,Hospital,160
+3,Fácil,Caracas,13,Tercer Milenio,160
+3,Fácil,Caracas,14,AV. Jiménez,160
+3,Fácil,Caracas,15,Calle 19,160
+3,Fácil,Caracas,16,Temporal - Calle 22,160
+3,Fácil,Calle 26,17,Centro Memoria,160
+3,Fácil,Calle 26,18,Concejo de Bogotá,160
+3,Fácil,Calle 26,19,C. Universitaria - Lotería de Btá.,160
+3,Fácil,Calle 26,20,Corferias,160
+4,Fácil,NQS Sur,1,Portal Sur - JFK Coop. financ.,160
+4,Fácil,NQS Sur,2,Perdomo,160
+4,Fácil,NQS Sur,3,Paseo Villa del Río - Madelena,160
+4,Fácil,NQS Sur,4,Sevillana,160
+4,Fácil,NQS Sur,5,Venecia,160
+4,Fácil,NQS Sur,6,Alquería,160
+4,Fácil,NQS Sur,7,Gral. Santander,160
+4,Fácil,NQS Sur,8,NQS - Calle 38A S.,160
+4,Fácil,NQS Sur,9,NQS - Calle 30 S.,160
+4,Fácil,NQS Sur,10,SENA,160
+4,Fácil,NQS Sur,11,Santa Isabel,160
+4,Fácil,NQS Sur,12,Comuneros,160
+4,Fácil,NQS Central,13,Ricaurte,160
+4,Fácil,NQS Central,14,Paloquemao,160
+4,Fácil,NQS Central,15,CAD,160
+4,Fácil,NQS Central,16,AV. El Dorado,160
+4,Fácil,NQS Central,17,U. Nacional,160
+4,Fácil,NQS Central,18,Campín - UAN,160
+4,Fácil,NQS Central,19,Movistar Arena,160
+4,Fácil,NQS Central,20,7 de agosto,160
+4,Fácil,NQS Central,21,AV. Chile,160
+4,Fácil,NQS Central,22,NQS - Calle 75,160
+4,Fácil,Calle 80,23,Escuela Militar,160
+4,Fácil,Calle 80,24,Polo - FINCOMERCIO,160
+4,Fácil,Autopista Norte,25,Héroes,160
+5,Fácil,Américas,1,Portal Américas,160
+5,Fácil,Américas,2,Patio Bonito,160
+5,Fácil,Américas,3,Biblioteca Tintal,160
+5,Fácil,Américas,4,TV 86,160
+5,Fácil,Américas,5,Banderas,160
+5,Fácil,Américas,6,Mandalay,160
+5,Fácil,Américas,7,AV. Américas - AV. Boyacá,160
+5,Fácil,Américas,8,Marsella,160
+5,Fácil,Américas,9,Pradera - Plaza Central,160
+5,Fácil,Américas,10,Distrito Grafiti,160
+5,Fácil,Américas,11,Puente Aranda,160
+5,Fácil,Américas,12,KR 43 - COMAPAN,160
+5,Fácil,Américas,13,Zona Industrial,160
+5,Fácil,Américas,14,CDS - Cra. 32,160
+5,Fácil,Américas,15,Ricaurte,160
+5,Fácil,Américas,16,San Façon - KR 22,160
+5,Fácil,Américas,17,De la Sabana,160
+5,Fácil,Caracas,18,AV. Jiménez,160
+5,Fácil,Caracas,19,Calle 19,160
+5,Fácil,Caracas,20,Temporal - Calle 22,160
+6,Fácil,Calle 26,1,Universidades - CityU,160
+6,Fácil,Caracas,2,Calle 26,160
+6,Fácil,Caracas,3,Temporal - Calle 34,160
+6,Fácil,Caracas,4,AV. 39,160
+6,Fácil,Caracas,5,Calle 45 - American School Way,160
+6,Fácil,Caracas,6,Temporal - Marly,160
+6,Fácil,Caracas,7,Temporal - Calle 57,160
+6,Fácil,Caracas,8,Calle 63,160
+6,Fácil,Caracas,9,Temporal - Flores,160
+6,Fácil,Caracas,10,Calle 72,160
+6,Fácil,Caracas,11,Calle 76,160
+6,Fácil,Calle 80,12,Polo - FINCOMERCIO,160
+6,Fácil,Calle 80,13,Escuela Militar,160
+6,Fácil,Calle 80,14,KR 47,160
+6,Fácil,Calle 80,15,KR 53,160
+6,Fácil,Calle 80,16,AV. 68,160
+6,Fácil,Calle 80,17,Ferias,160
+6,Fácil,Calle 80,18,Boyacá,160
+6,Fácil,Calle 80,19,Minuto de Dios,160
+6,Fácil,Calle 80,20,Granja - KR 77,160
+6,Fácil,Calle 80,21,AV. Cali,160
+6,Fácil,Calle 80,22,KR 90,160
+6,Fácil,Calle 80,23,Quirigua,160
+6,Fácil,Calle 80,24,Portal 80,160
+7,Fácil,Calle 80,1,Polo - FINCOMERCIO,160
+7,Fácil,Calle 80,2,Escuela Militar,160
+7,Fácil,Suba,3,San Martín,160
+7,Fácil,Suba,4,Rionegro,160
+7,Fácil,Suba,5,Suba - Calle 95,160
+7,Fácil,Suba,6,Suba - Calle 100,160
+7,Fácil,Suba,7,Puentelargo,160
+7,Fácil,Suba,8,AV. Suba - Calle 116,160
+7,Fácil,Suba,9,Humedal Córdoba,160
+7,Fácil,Suba,10,Niza - Calle 127,160
+7,Fácil,Suba,11,Suba - AV. Boyacá,160
+7,Fácil,Suba,12,Gratamira,160
+7,Fácil,Suba,13,21 Ángeles,160
+7,Fácil,Suba,14,Suba - TV 91,160
+7,Fácil,Suba,15,La Campiña,160
+7,Fácil,Suba,16,Portal Suba,160
+8,Fácil,Autopista Norte,1,Terminal,160
+8,Fácil,Autopista Norte,2,Calle 187,160
+8,Fácil,Autopista Norte,3,Portal Norte,160
+8,Fácil,Autopista Norte,4,Toberín - Foundever,160
+8,Fácil,Autopista Norte,5,Calle 161,160
+8,Fácil,Autopista Norte,6,Mazurén,160
+8,Fácil,Autopista Norte,7,Calle 146,160
+8,Fácil,Autopista Norte,8,Calle 142,160
+8,Fácil,Autopista Norte,9,Alcalá - Col. S. Tomás Dominicos,160
+8,Fácil,Autopista Norte,10,Prado,160
+8,Fácil,Autopista Norte,11,Calle 127,160
+8,Fácil,Autopista Norte,12,Pepe Sierra,160
+8,Fácil,Autopista Norte,13,Calle 106,160
+8,Fácil,Autopista Norte,14,Calle 100 - Marketmedios,160
+8,Fácil,Autopista Norte,15,Virrey,160
+8,Fácil,Autopista Norte,16,Calle 85 - GATO DUMAS,160
+8,Fácil,Autopista Norte,17,Héroes,160
+8,Fácil,Caracas,18,Calle 76,160
+8,Fácil,Caracas,19,Calle 72,160
+8,Fácil,Caracas,20,Temporal - Flores,160
+8,Fácil,Caracas,21,Calle 63,160
+8,Fácil,Caracas,22,Temporal - Calle 57,160
+8,Fácil,Caracas,23,Temporal - Marly,160
+8,Fácil,Caracas,24,Calle 45 - American School Way,160
+8,Fácil,Caracas,25,AV. 39,160
+8,Fácil,Caracas,26,Temporal - Calle 34,160
+8,Fácil,Caracas,27,Calle 26,160
+8,Fácil,Caracas,28,Temporal - Calle 22,160
+8,Fácil,Caracas,29,Calle 19,160
+8,Fácil,Caracas,30,AV. Jiménez,160
+8,Fácil,Caracas,31,Tercer Milenio,160
+8,Fácil,NQS Central,32,Tygua-San José,160
+8,Fácil,NQS Central,33,Guatoque-Veraguas,160
+A52,Expreso,NQS Sur,1,Portal Sur - JFK Coop. financ.,160
+A52,Expreso,NQS Sur,2,Perdomo,160
+A52,Expreso,NQS Sur,3,Paseo Villa del Río - Madelena,160
+A52,Expreso,NQS Sur,4,Venecia,160
+A52,Expreso,NQS Sur,5,Alquería,160
+A52,Expreso,NQS Sur,6,Gral. Santander,160
+A52,Expreso,NQS Sur,7,NQS - Calle 30 S.,160
+A52,Expreso,NQS Sur,8,Santa Isabel,160
+A52,Expreso,Caracas,9,Calle 76,160
+A52,Expreso,Caracas,10,Temporal - Flores,160
+A60,Expreso,Américas,1,Portal Américas,250
+A60,Expreso,Américas,2,TV 86,250
+A60,Expreso,Américas,3,Banderas,250
+A60,Expreso,Américas,4,Distrito Grafiti,250
+A60,Expreso,Américas,5,KR 43 - COMAPAN,250
+A60,Expreso,Américas,6,Ricaurte,250
+A60,Expreso,Américas,7,De la Sabana,250
+A60,Expreso,Caracas,8,Calle 26,250
+A60,Expreso,Caracas,9,Temporal - Calle 34,250
+A60,Expreso,Caracas,10,Calle 45 - American School Way,250
+A60,Expreso,Caracas,11,Temporal - Marly,250
+A60,Expreso,Caracas,12,Calle 63,250
+A60,Expreso,Caracas,13,Calle 76,250
+A61,Expreso,Américas,1,Portal Américas,250
+A61,Expreso,Américas,2,Patio Bonito,250
+A61,Expreso,Américas,3,Biblioteca Tintal,250
+A61,Expreso,Américas,4,Banderas,250
+A61,Expreso,Américas,5,Marsella,250
+A61,Expreso,Américas,6,Zona Industrial,250
+A61,Expreso,Caracas,7,Calle 19,250
+A61,Expreso,Caracas,8,Temporal - Calle 22,250
+A61,Expreso,Caracas,9,Temporal - Calle 34,250
+A61,Expreso,Caracas,10,AV. 39,250
+A61,Expreso,Caracas,11,Temporal - Calle 57,250
+A61,Expreso,Caracas,12,Temporal - Flores,250
+A61,Expreso,Caracas,13,Calle 72,250
+A61,Expreso,Calle 80,14,Polo - FINCOMERCIO,250
+B10,Expreso,Calle 80,1,Portal 80,250
+B10,Expreso,Calle 80,2,KR 90,250
+B10,Expreso,Calle 80,3,AV. Cali,250
+B10,Expreso,Calle 80,4,Granja - KR 77,250
+B10,Expreso,Calle 80,5,Boyacá,250
+B10,Expreso,Calle 80,6,AV. 68,250
+B10,Expreso,Calle 80,7,KR 53,250
+B10,Expreso,Calle 80,8,KR 47,250
+B10,Expreso,Autopista Norte,9,Calle 85 - GATO DUMAS,250
+B10,Expreso,Autopista Norte,10,Calle 100 - Marketmedios,250
+B10,Expreso,Autopista Norte,11,Alcalá - Col. S. Tomás Dominicos,250
+B10,Expreso,Autopista Norte,12,Calle 146,250
+B10,Expreso,Autopista Norte,13,Mazurén,250
+B10,Expreso,Autopista Norte,14,Toberín - Foundever,250
+B10,Expreso,Autopista Norte,15,Portal Norte,250
+B11,Expreso,NQS Sur,1,Portal Sur - JFK Coop. financ.,250
+B11,Expreso,NQS Sur,2,Paseo Villa del Río - Madelena,250
+B11,Expreso,NQS Sur,3,Alquería,250
+B11,Expreso,NQS Sur,4,NQS - Calle 30 S.,250
+B11,Expreso,NQS Sur,5,SENA,250
+B11,Expreso,NQS Sur,6,Santa Isabel,250
+B11,Expreso,NQS Central,7,Ricaurte,250
+B11,Expreso,NQS Central,8,Paloquemao,250
+B11,Expreso,NQS Central,9,Campín - UAN,250
+B11,Expreso,Calle 80,10,Escuela Militar,250
+B11,Expreso,Autopista Norte,11,Héroes,250
+B11,Expreso,Autopista Norte,12,Calle 85 - GATO DUMAS,250
+B11,Expreso,Autopista Norte,13,Virrey,250
+B11,Expreso,Autopista Norte,14,Calle 106,250
+B11,Expreso,Autopista Norte,15,Calle 146,250
+B11,Expreso,Autopista Norte,16,Toberín - Foundever,250
+B11,Expreso,Autopista Norte,17,Calle 187,250
+B11,Expreso,Autopista Norte,18,Terminal,250
+B12,Expreso,NQS Sur,1,Portal Sur - JFK Coop. financ.,250
+B12,Expreso,NQS Sur,2,Perdomo,250
+B12,Expreso,NQS Sur,3,Gral. Santander,250
+B12,Expreso,NQS Sur,4,Comuneros,250
+B12,Expreso,NQS Central,5,Ricaurte,250
+B12,Expreso,NQS Central,6,AV. El Dorado,250
+B12,Expreso,NQS Central,7,U. Nacional,250
+B12,Expreso,NQS Central,8,7 de agosto,250
+B12,Expreso,NQS Central,9,NQS - Calle 75,250
+B12,Expreso,NQS Central,10,La Castellana,250
+B12,Expreso,Autopista Norte,11,Calle 100 - Marketmedios,250
+B12,Expreso,Autopista Norte,12,Calle 127,250
+B12,Expreso,Autopista Norte,13,Prado,250
+B12,Expreso,Autopista Norte,14,Calle 142,250
+B12,Expreso,Autopista Norte,15,Toberín - Foundever,250
+B12,Expreso,Autopista Norte,16,Portal Norte,250
+B13,Expreso,Caracas Sur,1,Portal Tunal,160
+B13,Expreso,Caracas Sur,2,Biblioteca,160
+B13,Expreso,Caracas Sur,3,Calle 40 Sur,160
+B13,Expreso,Caracas Sur,4,Quiroga,160
+B13,Expreso,Caracas Sur,5,Restrepo,160
+B13,Expreso,Caracas Sur,6,Hortúa,160
+B13,Expreso,Caracas Sur,7,Hospital,160
+B13,Expreso,Caracas,8,Tercer Milenio,160
+B13,Expreso,Caracas,9,Temporal - Calle 22,160
+B13,Expreso,Caracas,10,AV. 39,160
+B13,Expreso,Caracas,11,Calle 63,160
+B13,Expreso,Caracas,12,Temporal - Flores,160
+B13,Expreso,Caracas,13,Calle 72,160
+B13,Expreso,Caracas,14,Calle 76,160
+B13,Expreso,Autopista Norte,15,Calle 85 - GATO DUMAS,160
+B13,Expreso,Autopista Norte,16,Calle 106,160
+B13,Expreso,Autopista Norte,17,Calle 127,160
+B13,Expreso,Autopista Norte,18,Calle 142,160
+B13,Expreso,Autopista Norte,19,Calle 146,160
+B13,Expreso,Autopista Norte,20,Mazurén,160
+B13,Expreso,Autopista Norte,21,Calle 161,160
+B13,Expreso,Autopista Norte,22,Portal Norte,160
+B16,Expreso,Calle 26,1,Portal Eldorado - C.C. NUESTRO BOGOTÁ,250
+B16,Expreso,Calle 26,2,Modelia,250
+B16,Expreso,Calle 26,3,AV. Rojas - UNISALESIANA,250
+B16,Expreso,Calle 26,4,El Tiempo - CCB,250
+B16,Expreso,Calle 26,5,Salitre - El Greco,250
+B16,Expreso,Calle 26,6,CAN - British Council,250
+B16,Expreso,Calle 26,7,Quinta Paredes,250
+B16,Expreso,Calle 26,8,Corferias,250
+B16,Expreso,NQS Central,9,AV. El Dorado,250
+B16,Expreso,NQS Central,10,AV. Chile,250
+B16,Expreso,Autopista Norte,11,Pepe Sierra,250
+B16,Expreso,Autopista Norte,12,Alcalá - Col. S. Tomás Dominicos,250
+B16,Expreso,Autopista Norte,13,Mazurén,250
+B16,Expreso,Autopista Norte,14,Toberín - Foundever,250
+B16,Expreso,Autopista Norte,15,Calle 187,250
+B16,Expreso,Autopista Norte,16,Terminal,250
+B18,Expreso,Carrera 10,1,Portal 20 de Julio,250
+B18,Expreso,Carrera 10,2,Country Sur,250
+B18,Expreso,Carrera 10,3,AV. 1° Mayo,250
+B18,Expreso,Carrera 10,4,San Bernardo,250
+B18,Expreso,Carrera 10,5,Bicentenario,250
+B18,Expreso,Caracas,6,Tercer Milenio,250
+B18,Expreso,Caracas,7,AV. Jiménez,250
+B18,Expreso,Caracas,8,Temporal - Calle 34,250
+B18,Expreso,Caracas,9,Calle 45 - American School Way,250
+B18,Expreso,Caracas,10,Calle 63,250
+B18,Expreso,Caracas,11,Calle 76,250
+B18,Expreso,Autopista Norte,12,Virrey,250
+B18,Expreso,Autopista Norte,13,Pepe Sierra,250
+B18,Expreso,Autopista Norte,14,Calle 127,250
+B18,Expreso,Autopista Norte,15,Alcalá - Col. S. Tomás Dominicos,250
+B18,Expreso,Autopista Norte,16,Calle 187,250
+B18,Expreso,Autopista Norte,17,Terminal,250
+B23,Expreso,Calle 26,1,Portal Eldorado - C.C. NUESTRO BOGOTÁ,160
+B23,Expreso,Calle 26,2,AV. Rojas - UNISALESIANA,160
+B23,Expreso,Calle 26,3,El Tiempo - CCB,160
+B23,Expreso,Calle 26,4,Salitre - El Greco,160
+B23,Expreso,Calle 26,5,CAN - British Council,160
+B23,Expreso,Calle 26,6,Gobernación,160
+B23,Expreso,Calle 26,7,C. Universitaria - Lotería de Btá.,160
+B23,Expreso,Calle 26,8,Concejo de Bogotá,160
+B23,Expreso,Caracas,9,Calle 26,160
+B23,Expreso,Caracas,10,Temporal - Calle 34,160
+B23,Expreso,Caracas,11,Calle 45 - American School Way,160
+B23,Expreso,Caracas,12,Temporal - Marly,160
+B23,Expreso,Caracas,13,Temporal - Calle 57,160
+B23,Expreso,Autopista Norte,14,Calle 85 - GATO DUMAS,160
+B23,Expreso,Autopista Norte,15,Calle 127,160
+B23,Expreso,Autopista Norte,16,Prado,160
+B23,Expreso,Autopista Norte,17,Alcalá - Col. S. Tomás Dominicos,160
+B26,Expreso,Américas,1,Portal Américas,250
+B26,Expreso,Américas,2,Patio Bonito,250
+B26,Expreso,Américas,3,Biblioteca Tintal,250
+B26,Expreso,Américas,4,TV 86,250
+B26,Expreso,Américas,5,Banderas,250
+B26,Expreso,Américas,6,Mandalay,250
+B26,Expreso,Américas,7,AV. Américas - AV. Boyacá,250
+B26,Expreso,Autopista Norte,8,Héroes,250
+B26,Expreso,Autopista Norte,9,Calle 85 - GATO DUMAS,250
+B26,Expreso,Autopista Norte,10,Virrey,250
+B26,Expreso,Autopista Norte,11,Calle 100 - Marketmedios,250
+B26,Expreso,Autopista Norte,12,Calle 127,250
+B26,Expreso,Autopista Norte,13,Alcalá - Col. S. Tomás Dominicos,250
+B27,Expreso,Caracas Sur,1,Portal Tunal,250
+B27,Expreso,Caracas Sur,2,Calle 40 Sur,250
+B27,Expreso,Caracas,3,AV. Jiménez,250
+B27,Expreso,Caracas,4,Temporal - Calle 34,250
+B27,Expreso,Caracas,5,Calle 72,250
+B27,Expreso,Autopista Norte,6,Héroes,250
+B27,Expreso,Autopista Norte,7,Calle 85 - GATO DUMAS,250
+B27,Expreso,Autopista Norte,8,Virrey,250
+B27,Expreso,Autopista Norte,9,Calle 100 - Marketmedios,250
+B27,Expreso,Autopista Norte,10,Toberín - Foundever,250
+B27,Expreso,Autopista Norte,11,Portal Norte,250
+B28,Expreso,Américas,1,Portal Américas,160
+B28,Expreso,Américas,2,Biblioteca Tintal,160
+B28,Expreso,Américas,3,Banderas,160
+B28,Expreso,Américas,4,Marsella,160
+B28,Expreso,Américas,5,Zona Industrial,160
+B28,Expreso,Américas,6,CDS - Cra. 32,160
+B28,Expreso,NQS Central,7,La Castellana,160
+B28,Expreso,Autopista Norte,8,Calle 106,160
+B28,Expreso,Autopista Norte,9,Pepe Sierra,160
+B28,Expreso,Autopista Norte,10,Prado,160
+B28,Expreso,Autopista Norte,11,Calle 146,160
+B28,Expreso,Autopista Norte,12,Calle 161,160
+B28,Expreso,Autopista Norte,13,Portal Norte,160
+B46,Expreso,NQS Sur,1,San Mateo,250
+B46,Expreso,NQS Sur,2,Terreros - Hospital C.V.,250
+B46,Expreso,NQS Sur,3,León XIII,250
+B46,Expreso,NQS Sur,4,La Despensa,250
+B46,Expreso,NQS Sur,5,Bosa,250
+B46,Expreso,Autopista Norte,6,Calle 100 - Marketmedios,250
+B46,Expreso,Autopista Norte,7,Alcalá - Col. S. Tomás Dominicos,250
+B46,Expreso,Autopista Norte,8,Toberín - Foundever,250
+B46,Expreso,Autopista Norte,9,Portal Norte,250
+B50,Expreso,Suba,1,Portal Suba,160
+B50,Expreso,Suba,2,La Campiña,160
+B50,Expreso,Suba,3,Suba - TV 91,160
+B50,Expreso,Suba,4,21 Ángeles,160
+B50,Expreso,Suba,5,AV. Suba - Calle 116,160
+B50,Expreso,Suba,6,Puentelargo,160
+B50,Expreso,Suba,7,Rionegro,160
+B50,Expreso,Calle 80,8,Escuela Militar,160
+B50,Expreso,Autopista Norte,9,Héroes,160
+B50,Expreso,Autopista Norte,10,Calle 85 - GATO DUMAS,160
+B50,Expreso,Autopista Norte,11,Virrey,160
+B50,Expreso,Autopista Norte,12,Calle 142,160
+B50,Expreso,Autopista Norte,13,Calle 161,160
+B55,Expreso,Calle 80,1,Portal 80,160
+B55,Expreso,Calle 80,2,Quirigua,160
+B55,Expreso,Calle 80,3,AV. Cali,160
+B55,Expreso,Calle 80,4,Granja - KR 77,160
+B55,Expreso,Calle 80,5,Minuto de Dios,160
+B55,Expreso,Calle 80,6,Ferias,160
+B55,Expreso,Calle 80,7,Polo - FINCOMERCIO,160
+B55,Expreso,Autopista Norte,8,Héroes,160
+B55,Expreso,Autopista Norte,9,Virrey,160
+B55,Expreso,Autopista Norte,10,Calle 106,160
+B55,Expreso,Autopista Norte,11,Pepe Sierra,160
+B55,Expreso,Autopista Norte,12,Prado,160
+B55,Expreso,Autopista Norte,13,Calle 142,160
+B55,Expreso,Autopista Norte,14,Calle 161,160
+B55,Expreso,Autopista Norte,15,Toberín - Foundever,160
+B72,Expreso,Caracas Sur,1,Portal Usme,160
+B72,Expreso,Caracas Sur,2,Molinos,160
+B72,Expreso,Caracas Sur,3,Socorro,160
+B72,Expreso,Caracas Sur,4,Olaya,160
+B72,Expreso,Caracas Sur,5,Fucha,160
+B72,Expreso,Caracas Sur,6,Nariño,160
+B72,Expreso,Caracas Sur,7,Hospital,160
+B72,Expreso,NQS Central,8,Tygua-San José,160
+B72,Expreso,NQS Central,9,Paloquemao,160
+B72,Expreso,NQS Central,10,Movistar Arena,160
+B72,Expreso,NQS Central,11,AV. Chile,160
+B72,Expreso,NQS Central,12,La Castellana,160
+B72,Expreso,Autopista Norte,13,Pepe Sierra,160
+B72,Expreso,Autopista Norte,14,Alcalá - Col. S. Tomás Dominicos,160
+B72,Expreso,Autopista Norte,15,Mazurén,160
+B72,Expreso,Autopista Norte,16,Toberín - Foundever,160
+B74,Expreso,Calle 26,1,Universidades - CityU,160
+B74,Expreso,Caracas,2,Calle 19,160
+B74,Expreso,Caracas,3,Calle 26,160
+B74,Expreso,Caracas,4,AV. 39,160
+B74,Expreso,Caracas,5,Calle 45 - American School Way,160
+B74,Expreso,Caracas,6,Temporal - Calle 57,160
+B74,Expreso,Autopista Norte,7,Héroes,160
+B74,Expreso,Autopista Norte,8,Virrey,160
+B74,Expreso,Autopista Norte,9,Prado,160
+B74,Expreso,Autopista Norte,10,Calle 142,160
+B74,Expreso,Autopista Norte,11,Calle 146,160
+B74,Expreso,Autopista Norte,12,Mazurén,160
+B74,Expreso,Autopista Norte,13,Toberín - Foundever,160
+B74,Expreso,Autopista Norte,14,Portal Norte,160
+B75,Expreso,Caracas Sur,1,Portal Usme,160
+B75,Expreso,Caracas Sur,2,Danubio,160
+B75,Expreso,Caracas Sur,3,Molinos,160
+B75,Expreso,Caracas Sur,4,Consuelo,160
+B75,Expreso,Caracas Sur,5,Socorro,160
+B75,Expreso,Caracas Sur,6,Santa Lucía,160
+B75,Expreso,Caracas Sur,7,Fucha,160
+B75,Expreso,Caracas Sur,8,Nariño,160
+B75,Expreso,Caracas Sur,9,Hortúa,160
+B75,Expreso,Caracas,10,AV. Jiménez,160
+B75,Expreso,Caracas,11,AV. 39,160
+B75,Expreso,Caracas,12,Temporal - Marly,160
+B75,Expreso,Caracas,13,Temporal - Calle 57,160
+B75,Expreso,Caracas,14,Calle 63,160
+B75,Expreso,Caracas,15,Calle 72,160
+B75,Expreso,Caracas,16,Calle 76,160
+B75,Expreso,Autopista Norte,17,Héroes,160
+B75,Expreso,Autopista Norte,18,Calle 100 - Marketmedios,160
+B75,Expreso,Autopista Norte,19,Prado,160
+B75,Expreso,Autopista Norte,20,Calle 142,160
+B75,Expreso,Autopista Norte,21,Calle 146,160
+B75,Expreso,Autopista Norte,22,Toberín - Foundever,160
+B75,Expreso,Autopista Norte,23,Portal Norte,160
+C15,Expreso,Caracas Sur,1,Portal Tunal,250
+C15,Expreso,Caracas Sur,2,Parque,250
+C15,Expreso,Caracas Sur,3,Calle 40 Sur,250
+C15,Expreso,Caracas Sur,4,Olaya,250
+C15,Expreso,Caracas Sur,5,Nariño,250
+C15,Expreso,Caracas,6,Tercer Milenio,250
+C15,Expreso,Caracas,7,AV. Jiménez,250
+C15,Expreso,Caracas,8,Calle 19,250
+C15,Expreso,Caracas,9,Temporal - Calle 22,250
+C15,Expreso,Caracas,10,Calle 45 - American School Way,250
+C15,Expreso,Caracas,11,Temporal - Marly,250
+C15,Expreso,Caracas,12,Temporal - Calle 57,250
+C15,Expreso,Caracas,13,Calle 76,250
+C15,Expreso,Suba,14,Rionegro,250
+C15,Expreso,Suba,15,AV. Suba - Calle 116,250
+C15,Expreso,Suba,16,Humedal Córdoba,250
+C15,Expreso,Suba,17,Niza - Calle 127,250
+C15,Expreso,Suba,18,Gratamira,250
+C15,Expreso,Suba,19,Suba - TV 91,250
+C15,Expreso,Suba,20,La Campiña,250
+C15,Expreso,Suba,21,Portal Suba,250
+C17,Expreso,Caracas Sur,1,Portal Usme,160
+C17,Expreso,Caracas Sur,2,Danubio,160
+C17,Expreso,Caracas Sur,3,Consuelo,160
+C17,Expreso,Caracas Sur,4,Socorro,160
+C17,Expreso,Caracas Sur,5,Santa Lucía,160
+C17,Expreso,Caracas Sur,6,Quiroga,160
+C17,Expreso,Caracas Sur,7,Restrepo,160
+C17,Expreso,Caracas Sur,8,Hortúa,160
+C17,Expreso,NQS Central,9,Guatoque-Veraguas,160
+C17,Expreso,NQS Central,10,Paloquemao,160
+C17,Expreso,NQS Central,11,AV. El Dorado,160
+C17,Expreso,NQS Central,12,U. Nacional,160
+C17,Expreso,NQS Central,13,7 de agosto,160
+C17,Expreso,Suba,14,San Martín,160
+C17,Expreso,Suba,15,Suba - Calle 95,160
+C17,Expreso,Suba,16,Suba - Calle 100,160
+C17,Expreso,Suba,17,Puentelargo,160
+C17,Expreso,Suba,18,AV. Suba - Calle 116,160
+C17,Expreso,Suba,19,Niza - Calle 127,160
+C17,Expreso,Suba,20,Suba - TV 91,160
+C17,Expreso,Suba,21,La Campiña,160
+C17,Expreso,Suba,22,Portal Suba,160
+C19,Expreso,Américas,1,Banderas,250
+C19,Expreso,Américas,2,Mandalay,250
+C19,Expreso,Américas,3,Marsella,250
+C19,Expreso,Américas,4,Distrito Grafiti,250
+C19,Expreso,Américas,5,CDS - Cra. 32,250
+C19,Expreso,Américas,6,Ricaurte,250
+C19,Expreso,Américas,7,De la Sabana,250
+C19,Expreso,Caracas,8,Calle 19,250
+C19,Expreso,Caracas,9,Calle 26,250
+C19,Expreso,Caracas,10,Temporal - Calle 34,250
+C19,Expreso,Caracas,11,AV. 39,250
+C19,Expreso,Caracas,12,Calle 63,250
+C19,Expreso,Caracas,13,Temporal - Flores,250
+C19,Expreso,Caracas,14,Calle 72,250
+C19,Expreso,Suba,15,Suba - Calle 95,250
+C19,Expreso,Suba,16,Suba - Calle 100,250
+C19,Expreso,Suba,17,Puentelargo,250
+C19,Expreso,Suba,18,Suba - AV. Boyacá,250
+C19,Expreso,Suba,19,21 Ángeles,250
+C19,Expreso,Suba,20,Suba - TV 91,250
+C19,Expreso,Suba,21,La Campiña,250
+C19,Expreso,Suba,22,Portal Suba,250
+C25,Expreso,Carrera 10,1,Portal 20 de Julio,250
+C25,Expreso,Carrera 10,2,Country Sur,250
+C25,Expreso,Carrera 10,3,AV. 1° Mayo,250
+C25,Expreso,Carrera 10,4,San Bernardo,250
+C25,Expreso,Carrera 10,5,Bicentenario,250
+C25,Expreso,NQS Central,6,Tygua-San José,250
+C25,Expreso,NQS Central,7,Guatoque-Veraguas,250
+C25,Expreso,NQS Central,8,Ricaurte,250
+C25,Expreso,NQS Central,9,Campín - UAN,250
+C25,Expreso,NQS Central,10,Movistar Arena,250
+C25,Expreso,NQS Central,11,AV. Chile,250
+C25,Expreso,NQS Central,12,NQS - Calle 75,250
+C25,Expreso,Suba,13,San Martín,250
+C25,Expreso,Suba,14,Suba - Calle 95,250
+C25,Expreso,Suba,15,Niza - Calle 127,250
+C25,Expreso,Suba,16,Suba - AV. Boyacá,250
+C25,Expreso,Suba,17,21 Ángeles,250
+C25,Expreso,Suba,18,Suba - TV 91,250
+C25,Expreso,Suba,19,La Campiña,250
+C25,Expreso,Suba,20,Portal Suba,250
+C30,Expreso,NQS Sur,1,Portal Sur - JFK Coop. financ.,250
+C30,Expreso,NQS Sur,2,Venecia,250
+C30,Expreso,NQS Sur,3,Gral. Santander,250
+C30,Expreso,NQS Sur,4,NQS - Calle 38A S.,250
+C30,Expreso,NQS Sur,5,Santa Isabel,250
+C30,Expreso,NQS Central,6,CAD,250
+C30,Expreso,NQS Central,7,U. Nacional,250
+C30,Expreso,NQS Central,8,Movistar Arena,250
+C30,Expreso,Suba,9,Rionegro,250
+C30,Expreso,Suba,10,Puentelargo,250
+C30,Expreso,Suba,11,AV. Suba - Calle 116,250
+C30,Expreso,Suba,12,Suba - AV. Boyacá,250
+C30,Expreso,Suba,13,Suba - TV 91,250
+C30,Expreso,Suba,14,La Campiña,250
+C30,Expreso,Suba,15,Portal Suba,250
+C50,Expreso,Autopista Norte,1,Calle 161,160
+C50,Expreso,Autopista Norte,2,Calle 142,160
+C50,Expreso,Autopista Norte,3,Virrey,160
+C50,Expreso,Autopista Norte,4,Calle 85 - GATO DUMAS,160
+C50,Expreso,Autopista Norte,5,Héroes,160
+C50,Expreso,Calle 80,6,Escuela Militar,160
+C50,Expreso,Suba,7,Rionegro,160
+C50,Expreso,Suba,8,Puentelargo,160
+C50,Expreso,Suba,9,AV. Suba - Calle 116,160
+C50,Expreso,Suba,10,21 Ángeles,160
+C50,Expreso,Suba,11,Suba - TV 91,160
+C50,Expreso,Suba,12,La Campiña,160
+C50,Expreso,Suba,13,Portal Suba,160
+C73,Expreso,Calle 26,1,Universidades - CityU,250
+C73,Expreso,Calle 26,2,Centro Memoria,250
+C73,Expreso,Calle 26,3,C. Universitaria - Lotería de Btá.,250
+C73,Expreso,Suba,4,San Martín,250
+C73,Expreso,Suba,5,Suba - Calle 100,250
+C73,Expreso,Suba,6,Puentelargo,250
+C73,Expreso,Suba,7,Niza - Calle 127,250
+C73,Expreso,Suba,8,Suba - TV 91,250
+C73,Expreso,Suba,9,La Campiña,250
+C73,Expreso,Suba,10,Portal Suba,250
+D10,Expreso,Autopista Norte,1,Portal Norte,250
+D10,Expreso,Autopista Norte,2,Toberín - Foundever,250
+D10,Expreso,Autopista Norte,3,Mazurén,250
+D10,Expreso,Autopista Norte,4,Calle 146,250
+D10,Expreso,Autopista Norte,5,Alcalá - Col. S. Tomás Dominicos,250
+D10,Expreso,Autopista Norte,6,Calle 100 - Marketmedios,250
+D10,Expreso,Autopista Norte,7,Calle 85 - GATO DUMAS,250
+D10,Expreso,Calle 80,8,KR 47,250
+D10,Expreso,Calle 80,9,KR 53,250
+D10,Expreso,Calle 80,10,AV. 68,250
+D10,Expreso,Calle 80,11,Boyacá,250
+D10,Expreso,Calle 80,12,Granja - KR 77,250
+D10,Expreso,Calle 80,13,AV. Cali,250
+D10,Expreso,Calle 80,14,KR 90,250
+D10,Expreso,Calle 80,15,Portal 80,250
+D20,Expreso,Caracas Sur,1,Portal Usme,250
+D20,Expreso,Caracas Sur,2,Molinos,250
+D20,Expreso,Caracas Sur,3,Calle 40 Sur,250
+D20,Expreso,Caracas Sur,4,Quiroga,250
+D20,Expreso,Caracas Sur,5,Olaya,250
+D20,Expreso,Caracas Sur,6,Restrepo,250
+D20,Expreso,Caracas,7,Calle 19,250
+D20,Expreso,Caracas,8,Temporal - Calle 22,250
+D20,Expreso,Caracas,9,Calle 26,250
+D20,Expreso,Caracas,10,Temporal - Calle 34,250
+D20,Expreso,Caracas,11,Calle 45 - American School Way,250
+D20,Expreso,Caracas,12,Calle 63,250
+D20,Expreso,Caracas,13,Temporal - Flores,250
+D20,Expreso,Calle 80,14,Polo - FINCOMERCIO,250
+D20,Expreso,Calle 80,15,AV. 68,250
+D20,Expreso,Calle 80,16,Ferias,250
+D20,Expreso,Calle 80,17,Boyacá,250
+D20,Expreso,Calle 80,18,Granja - KR 77,250
+D20,Expreso,Calle 80,19,Quirigua,250
+D20,Expreso,Calle 80,20,Portal 80,250
+D21,Expreso,Caracas Sur,1,Portal Tunal,250
+D21,Expreso,Caracas Sur,2,Santa Lucía,250
+D21,Expreso,Caracas Sur,3,Calle 40 Sur,250
+D21,Expreso,Caracas Sur,4,Quiroga,250
+D21,Expreso,Caracas Sur,5,Fucha,250
+D21,Expreso,NQS Central,6,Guatoque-Veraguas,250
+D21,Expreso,NQS Central,7,Ricaurte,250
+D21,Expreso,NQS Central,8,Campín - UAN,250
+D21,Expreso,NQS Central,9,Movistar Arena,250
+D21,Expreso,NQS Central,10,7 de agosto,250
+D21,Expreso,Calle 80,11,AV. 68,250
+D21,Expreso,Calle 80,12,Minuto de Dios,250
+D21,Expreso,Calle 80,13,Granja - KR 77,250
+D21,Expreso,Calle 80,14,AV. Cali,250
+D21,Expreso,Calle 80,15,KR 90,250
+D21,Expreso,Calle 80,16,Portal 80,250
+D22,Expreso,NQS Sur,1,Portal Sur - JFK Coop. financ.,250
+D22,Expreso,NQS Sur,2,Sevillana,250
+D22,Expreso,NQS Sur,3,Gral. Santander,250
+D22,Expreso,NQS Sur,4,SENA,250
+D22,Expreso,NQS Sur,5,Santa Isabel,250
+D22,Expreso,NQS Central,6,Paloquemao,250
+D22,Expreso,NQS Central,7,AV. El Dorado,250
+D22,Expreso,NQS Central,8,U. Nacional,250
+D22,Expreso,NQS Central,9,AV. Chile,250
+D22,Expreso,NQS Central,10,NQS - Calle 75,250
+D22,Expreso,Calle 80,11,KR 47,250
+D22,Expreso,Calle 80,12,AV. 68,250
+D22,Expreso,Calle 80,13,Boyacá,250
+D22,Expreso,Calle 80,14,Minuto de Dios,250
+D22,Expreso,Calle 80,15,Granja - KR 77,250
+D22,Expreso,Calle 80,16,Portal 80,250
+D24,Expreso,Calle 26,1,Universidades - CityU,250
+D24,Expreso,Caracas,2,AV. 39,250
+D24,Expreso,Caracas,3,Temporal - Marly,250
+D24,Expreso,Caracas,4,Temporal - Calle 57,250
+D24,Expreso,Caracas,5,Calle 72,250
+D24,Expreso,Caracas,6,Calle 76,250
+D24,Expreso,Calle 80,7,Escuela Militar,250
+D24,Expreso,Calle 80,8,KR 47,250
+D24,Expreso,Calle 80,9,Minuto de Dios,250
+D24,Expreso,Calle 80,10,Granja - KR 77,250
+D24,Expreso,Calle 80,11,AV. Cali,250
+D24,Expreso,Calle 80,12,KR 90,250
+D24,Expreso,Calle 80,13,Portal 80,250
+D55,Expreso,Autopista Norte,1,Toberín - Foundever,160
+D55,Expreso,Autopista Norte,2,Calle 161,160
+D55,Expreso,Autopista Norte,3,Calle 142,160
+D55,Expreso,Autopista Norte,4,Prado,160
+D55,Expreso,Autopista Norte,5,Pepe Sierra,160
+D55,Expreso,Autopista Norte,6,Calle 106,160
+D55,Expreso,Autopista Norte,7,Virrey,160
+D55,Expreso,Autopista Norte,8,Héroes,160
+D55,Expreso,Calle 80,9,Polo - FINCOMERCIO,160
+D55,Expreso,Calle 80,10,Ferias,160
+D55,Expreso,Calle 80,11,Minuto de Dios,160
+D55,Expreso,Calle 80,12,Granja - KR 77,160
+D55,Expreso,Calle 80,13,AV. Cali,160
+D55,Expreso,Calle 80,14,Quirigua,160
+D55,Expreso,Calle 80,15,Portal 80,160
+E32,Expreso,Américas,1,Portal Américas,160
+E32,Expreso,Américas,2,TV 86,160
+E32,Expreso,Américas,3,Banderas,160
+E32,Expreso,Américas,4,AV. Américas - AV. Boyacá,160
+E32,Expreso,Américas,5,Puente Aranda,160
+E32,Expreso,Américas,6,Zona Industrial,160
+E32,Expreso,NQS Central,7,CAD,160
+E32,Expreso,NQS Central,8,AV. El Dorado,160
+E32,Expreso,NQS Central,9,U. Nacional,160
+E32,Expreso,NQS Central,10,7 de agosto,160
+E32,Expreso,NQS Central,11,AV. Chile,160
+E32,Expreso,NQS Central,12,NQS - Calle 75,160
+E42,Expreso,NQS Sur,1,San Mateo,250
+E42,Expreso,NQS Sur,2,Terreros - Hospital C.V.,250
+E42,Expreso,NQS Sur,3,León XIII,250
+E42,Expreso,NQS Sur,4,La Despensa,250
+E42,Expreso,NQS Sur,5,Bosa,250
+E42,Expreso,NQS Sur,6,Comuneros,250
+E42,Expreso,NQS Central,7,Paloquemao,250
+E42,Expreso,NQS Central,8,U. Nacional,250
+E42,Expreso,NQS Central,9,Campín - UAN,250
+E42,Expreso,NQS Central,10,7 de agosto,250
+E48,Expreso,NQS Sur,1,San Mateo,250
+E48,Expreso,NQS Sur,2,Terreros - Hospital C.V.,250
+E48,Expreso,NQS Sur,3,León XIII,250
+E48,Expreso,NQS Sur,4,La Despensa,250
+E48,Expreso,NQS Sur,5,Bosa,250
+E48,Expreso,NQS Sur,6,Sevillana,250
+E48,Expreso,NQS Sur,7,Venecia,250
+E48,Expreso,NQS Sur,8,Gral. Santander,250
+E48,Expreso,NQS Sur,9,Santa Isabel,250
+E48,Expreso,NQS Central,10,Ricaurte,250
+E48,Expreso,NQS Central,11,CAD,250
+F19,Expreso,Suba,1,Portal Suba,250
+F19,Expreso,Suba,2,La Campiña,250
+F19,Expreso,Suba,3,Suba - TV 91,250
+F19,Expreso,Suba,4,21 Ángeles,250
+F19,Expreso,Suba,5,Suba - AV. Boyacá,250
+F19,Expreso,Suba,6,Puentelargo,250
+F19,Expreso,Suba,7,Suba - Calle 100,250
+F19,Expreso,Suba,8,Suba - Calle 95,250
+F19,Expreso,Caracas,9,Calle 72,250
+F19,Expreso,Caracas,10,Temporal - Flores,250
+F19,Expreso,Caracas,11,Calle 63,250
+F19,Expreso,Caracas,12,AV. 39,250
+F19,Expreso,Caracas,13,Temporal - Calle 34,250
+F19,Expreso,Caracas,14,Calle 26,250
+F19,Expreso,Caracas,15,Calle 19,250
+F19,Expreso,Américas,16,De la Sabana,250
+F19,Expreso,Américas,17,Ricaurte,250
+F19,Expreso,Américas,18,CDS - Cra. 32,250
+F19,Expreso,Américas,19,Distrito Grafiti,250
+F19,Expreso,Américas,20,Marsella,250
+F19,Expreso,Américas,21,Mandalay,250
+F19,Expreso,Américas,22,Banderas,250
+F23,Expreso,Eje Ambiental,1,Las Aguas - C. Col Americano,250
+F23,Expreso,Eje Ambiental,2,Museo del Oro,250
+F23,Expreso,Eje Ambiental,3,AV. Jiménez,250
+F23,Expreso,Américas,4,San Façon - KR 22,250
+F23,Expreso,Américas,5,Ricaurte,250
+F23,Expreso,Américas,6,Puente Aranda,250
+F23,Expreso,Américas,7,Pradera - Plaza Central,250
+F23,Expreso,Américas,8,AV. Américas - AV. Boyacá,250
+F23,Expreso,Américas,9,Banderas,250
+F23,Expreso,Américas,10,Biblioteca Tintal,250
+F23,Expreso,Américas,11,Patio Bonito,250
+F23,Expreso,Américas,12,Portal Américas,250
+F26,Expreso,Autopista Norte,1,Alcalá - Col. S. Tomás Dominicos,250
+F26,Expreso,Autopista Norte,2,Calle 127,250
+F26,Expreso,Autopista Norte,3,Calle 100 - Marketmedios,250
+F26,Expreso,Autopista Norte,4,Virrey,250
+F26,Expreso,Autopista Norte,5,Calle 85 - GATO DUMAS,250
+F26,Expreso,Autopista Norte,6,Héroes,250
+F26,Expreso,Américas,7,AV. Américas - AV. Boyacá,250
+F26,Expreso,Américas,8,Mandalay,250
+F26,Expreso,Américas,9,Banderas,250
+F26,Expreso,Américas,10,TV 86,250
+F26,Expreso,Américas,11,Biblioteca Tintal,250
+F26,Expreso,Américas,12,Patio Bonito,250
+F26,Expreso,Américas,13,Portal Américas,250
+F28,Expreso,Autopista Norte,1,Portal Norte,160
+F28,Expreso,Autopista Norte,2,Calle 161,160
+F28,Expreso,Autopista Norte,3,Calle 146,160
+F28,Expreso,Autopista Norte,4,Prado,160
+F28,Expreso,Autopista Norte,5,Pepe Sierra,160
+F28,Expreso,Autopista Norte,6,Calle 106,160
+F28,Expreso,NQS Central,7,La Castellana,160
+F28,Expreso,Américas,8,CDS - Cra. 32,160
+F28,Expreso,Américas,9,Zona Industrial,160
+F28,Expreso,Américas,10,Marsella,160
+F28,Expreso,Américas,11,Banderas,160
+F28,Expreso,Américas,12,Biblioteca Tintal,160
+F28,Expreso,Américas,13,Portal Américas,160
+F32,Expreso,NQS Central,1,NQS - Calle 75,160
+F32,Expreso,NQS Central,2,AV. Chile,160
+F32,Expreso,NQS Central,3,7 de agosto,160
+F32,Expreso,NQS Central,4,U. Nacional,160
+F32,Expreso,NQS Central,5,AV. El Dorado,160
+F32,Expreso,NQS Central,6,CAD,160
+F32,Expreso,Américas,7,Zona Industrial,160
+F32,Expreso,Américas,8,Puente Aranda,160
+F32,Expreso,Américas,9,AV. Américas - AV. Boyacá,160
+F32,Expreso,Américas,10,Banderas,160
+F32,Expreso,Américas,11,TV 86,160
+F32,Expreso,Américas,12,Portal Américas,160
+F51,Expreso,Carrera 7,1,Museo Nacional - FNG,250
+F51,Expreso,Carrera 10,2,San Diego,250
+F51,Expreso,Carrera 10,3,Las Nieves,250
+F51,Expreso,Américas,4,Ricaurte,250
+F51,Expreso,Américas,5,Distrito Grafiti,250
+F51,Expreso,Américas,6,Pradera - Plaza Central,250
+F51,Expreso,Américas,7,Marsella,250
+F51,Expreso,Américas,8,AV. Américas - AV. Boyacá,250
+F51,Expreso,Américas,9,Mandalay,250
+F51,Expreso,Américas,10,Banderas,250
+F51,Expreso,Américas,11,Biblioteca Tintal,250
+F51,Expreso,Américas,12,Patio Bonito,250
+F51,Expreso,Américas,13,Portal Américas,250
+F60,Expreso,Caracas,1,Calle 76,250
+F60,Expreso,Caracas,2,Calle 63,250
+F60,Expreso,Caracas,3,Temporal - Marly,250
+F60,Expreso,Caracas,4,Calle 45 - American School Way,250
+F60,Expreso,Caracas,5,Temporal - Calle 34,250
+F60,Expreso,Caracas,6,Calle 26,250
+F60,Expreso,Américas,7,De la Sabana,250
+F60,Expreso,Américas,8,Ricaurte,250
+F60,Expreso,Américas,9,KR 43 - COMAPAN,250
+F60,Expreso,Américas,10,Distrito Grafiti,250
+F60,Expreso,Américas,11,Banderas,250
+F60,Expreso,Américas,12,TV 86,250
+F60,Expreso,Américas,13,Portal Américas,250
+F61,Expreso,Calle 80,1,Polo - FINCOMERCIO,250
+F61,Expreso,Caracas,2,Calle 72,250
+F61,Expreso,Caracas,3,Temporal - Flores,250
+F61,Expreso,Caracas,4,Temporal - Calle 57,250
+F61,Expreso,Caracas,5,AV. 39,250
+F61,Expreso,Caracas,6,Temporal - Calle 34,250
+F61,Expreso,Caracas,7,Temporal - Calle 22,250
+F61,Expreso,Caracas,8,Calle 19,250
+F61,Expreso,Américas,9,Zona Industrial,250
+F61,Expreso,Américas,10,Marsella,250
+F61,Expreso,Américas,11,Banderas,250
+F61,Expreso,Américas,12,Biblioteca Tintal,250
+F61,Expreso,Américas,13,Patio Bonito,250
+F61,Expreso,Américas,14,Portal Américas,250
+G11,Expreso,Autopista Norte,1,Terminal,250
+G11,Expreso,Autopista Norte,2,Calle 187,250
+G11,Expreso,Autopista Norte,3,Toberín - Foundever,250
+G11,Expreso,Autopista Norte,4,Calle 146,250
+G11,Expreso,Autopista Norte,5,Calle 106,250
+G11,Expreso,Autopista Norte,6,Virrey,250
+G11,Expreso,Autopista Norte,7,Calle 85 - GATO DUMAS,250
+G11,Expreso,Autopista Norte,8,Héroes,250
+G11,Expreso,Calle 80,9,Escuela Militar,250
+G11,Expreso,NQS Central,10,Campín - UAN,250
+G11,Expreso,NQS Central,11,Paloquemao,250
+G11,Expreso,NQS Central,12,Ricaurte,250
+G11,Expreso,NQS Sur,13,Santa Isabel,250
+G11,Expreso,NQS Sur,14,SENA,250
+G11,Expreso,NQS Sur,15,NQS - Calle 30 S.,250
+G11,Expreso,NQS Sur,16,Alquería,250
+G11,Expreso,NQS Sur,17,Paseo Villa del Río - Madelena,250
+G11,Expreso,NQS Sur,18,Portal Sur - JFK Coop. financ.,250
+G12,Expreso,Autopista Norte,1,Portal Norte,250
+G12,Expreso,Autopista Norte,2,Toberín - Foundever,250
+G12,Expreso,Autopista Norte,3,Calle 142,250
+G12,Expreso,Autopista Norte,4,Prado,250
+G12,Expreso,Autopista Norte,5,Calle 127,250
+G12,Expreso,Autopista Norte,6,Calle 100 - Marketmedios,250
+G12,Expreso,NQS Central,7,La Castellana,250
+G12,Expreso,NQS Central,8,NQS - Calle 75,250
+G12,Expreso,NQS Central,9,7 de agosto,250
+G12,Expreso,NQS Central,10,U. Nacional,250
+G12,Expreso,NQS Central,11,AV. El Dorado,250
+G12,Expreso,NQS Central,12,Ricaurte,250
+G12,Expreso,NQS Sur,13,Comuneros,250
+G12,Expreso,NQS Sur,14,Gral. Santander,250
+G12,Expreso,NQS Sur,15,Perdomo,250
+G12,Expreso,NQS Sur,16,Portal Sur - JFK Coop. financ.,250
+G22,Expreso,Calle 80,1,Portal 80,250
+G22,Expreso,Calle 80,2,Granja - KR 77,250
+G22,Expreso,Calle 80,3,Minuto de Dios,250
+G22,Expreso,Calle 80,4,Boyacá,250
+G22,Expreso,Calle 80,5,AV. 68,250
+G22,Expreso,Calle 80,6,KR 47,250
+G22,Expreso,NQS Central,7,NQS - Calle 75,250
+G22,Expreso,NQS Central,8,AV. Chile,250
+G22,Expreso,NQS Central,9,U. Nacional,250
+G22,Expreso,NQS Central,10,AV. El Dorado,250
+G22,Expreso,NQS Central,11,Paloquemao,250
+G22,Expreso,NQS Sur,12,Santa Isabel,250
+G22,Expreso,NQS Sur,13,SENA,250
+G22,Expreso,NQS Sur,14,Gral. Santander,250
+G22,Expreso,NQS Sur,15,Sevillana,250
+G22,Expreso,NQS Sur,16,Portal Sur - JFK Coop. financ.,250
+G30,Expreso,Suba,1,Portal Suba,250
+G30,Expreso,Suba,2,La Campiña,250
+G30,Expreso,Suba,3,Suba - TV 91,250
+G30,Expreso,Suba,4,Suba - AV. Boyacá,250
+G30,Expreso,Suba,5,AV. Suba - Calle 116,250
+G30,Expreso,Suba,6,Puentelargo,250
+G30,Expreso,Suba,7,Rionegro,250
+G30,Expreso,NQS Central,8,Movistar Arena,250
+G30,Expreso,NQS Central,9,U. Nacional,250
+G30,Expreso,NQS Central,10,CAD,250
+G30,Expreso,NQS Sur,11,Santa Isabel,250
+G30,Expreso,NQS Sur,12,NQS - Calle 38A S.,250
+G30,Expreso,NQS Sur,13,Gral. Santander,250
+G30,Expreso,NQS Sur,14,Venecia,250
+G30,Expreso,NQS Sur,15,Portal Sur - JFK Coop. financ.,250
+G41,Expreso,Carrera 10,1,Bicentenario,250
+G41,Expreso,NQS Central,2,Tygua-San José,250
+G41,Expreso,NQS Central,3,Guatoque-Veraguas,250
+G41,Expreso,NQS Sur,4,NQS - Calle 30 S.,250
+G41,Expreso,NQS Sur,5,Alquería,250
+G41,Expreso,NQS Sur,6,Bosa,250
+G41,Expreso,NQS Sur,7,Terreros - Hospital C.V.,250
+G41,Expreso,NQS Sur,8,San Mateo,250
+G42,Expreso,NQS Central,1,7 de agosto,250
+G42,Expreso,NQS Central,2,Campín - UAN,250
+G42,Expreso,NQS Central,3,U. Nacional,250
+G42,Expreso,NQS Central,4,Paloquemao,250
+G42,Expreso,NQS Sur,5,Comuneros,250
+G42,Expreso,NQS Sur,6,Bosa,250
+G42,Expreso,NQS Sur,7,La Despensa,250
+G42,Expreso,NQS Sur,8,León XIII,250
+G42,Expreso,NQS Sur,9,Terreros - Hospital C.V.,250
+G42,Expreso,NQS Sur,10,San Mateo,250
+G43,Expreso,Calle 26,1,Portal Eldorado - C.C. NUESTRO BOGOTÁ,250
+G43,Expreso,Calle 26,2,Modelia,250
+G43,Expreso,Calle 26,3,Normandía,250
+G43,Expreso,Calle 26,4,El Tiempo - CCB,250
+G43,Expreso,Calle 26,5,Salitre - El Greco,250
+G43,Expreso,Calle 26,6,Gobernación,250
+G43,Expreso,Calle 26,7,Quinta Paredes,250
+G43,Expreso,Calle 26,8,Corferias,250
+G43,Expreso,NQS Central,9,CAD,250
+G43,Expreso,NQS Central,10,Ricaurte,250
+G43,Expreso,NQS Sur,11,SENA,250
+G43,Expreso,NQS Sur,12,Gral. Santander,250
+G43,Expreso,NQS Sur,13,Venecia,250
+G43,Expreso,NQS Sur,14,La Despensa,250
+G43,Expreso,NQS Sur,15,León XIII,250
+G43,Expreso,NQS Sur,16,Terreros - Hospital C.V.,250
+G43,Expreso,NQS Sur,17,San Mateo,250
+G45,Expreso,NQS Sur,1,San Mateo,160
+G45,Expreso,NQS Sur,2,Terreros - Hospital C.V.,160
+G45,Expreso,NQS Sur,3,León XIII,160
+G45,Expreso,NQS Sur,4,La Despensa,160
+G45,Expreso,NQS Sur,5,Bosa,160
+G45,Expreso,NQS Sur,6,Portal Sur - JFK Coop. financ.,160
+G46,Expreso,Autopista Norte,1,Portal Norte,250
+G46,Expreso,Autopista Norte,2,Toberín - Foundever,250
+G46,Expreso,Autopista Norte,3,Alcalá - Col. S. Tomás Dominicos,250
+G46,Expreso,Autopista Norte,4,Calle 100 - Marketmedios,250
+G46,Expreso,NQS Sur,5,Bosa,250
+G46,Expreso,NQS Sur,6,La Despensa,250
+G46,Expreso,NQS Sur,7,León XIII,250
+G46,Expreso,NQS Sur,8,Terreros - Hospital C.V.,250
+G46,Expreso,NQS Sur,9,San Mateo,250
+G47,Expreso,Carrera 7,1,Museo Nacional - FNG,250
+G47,Expreso,Carrera 10,2,San Diego,250
+G47,Expreso,Carrera 10,3,Las Nieves,250
+G47,Expreso,Carrera 10,4,San Victorino,250
+G47,Expreso,NQS Central,5,Tygua-San José,250
+G47,Expreso,NQS Central,6,Guatoque-Veraguas,250
+G47,Expreso,NQS Sur,7,Comuneros,250
+G47,Expreso,NQS Sur,8,NQS - Calle 38A S.,250
+G47,Expreso,NQS Sur,9,Sevillana,250
+G47,Expreso,NQS Sur,10,Paseo Villa del Río - Madelena,250
+G47,Expreso,NQS Sur,11,Perdomo,250
+G47,Expreso,NQS Sur,12,Portal Sur - JFK Coop. financ.,250
+G48,Expreso,NQS Central,1,CAD,250
+G48,Expreso,NQS Central,2,Ricaurte,250
+G48,Expreso,NQS Sur,3,Santa Isabel,250
+G48,Expreso,NQS Sur,4,Gral. Santander,250
+G48,Expreso,NQS Sur,5,Venecia,250
+G48,Expreso,NQS Sur,6,Sevillana,250
+G48,Expreso,NQS Sur,7,Bosa,250
+G48,Expreso,NQS Sur,8,La Despensa,250
+G48,Expreso,NQS Sur,9,León XIII,250
+G48,Expreso,NQS Sur,10,Terreros - Hospital C.V.,250
+G48,Expreso,NQS Sur,11,San Mateo,250
+G52,Expreso,Caracas,1,Temporal - Flores,160
+G52,Expreso,Caracas,2,Calle 76,160
+G52,Expreso,NQS Sur,3,Santa Isabel,160
+G52,Expreso,NQS Sur,4,NQS - Calle 30 S.,160
+G52,Expreso,NQS Sur,5,Gral. Santander,160
+G52,Expreso,NQS Sur,6,Alquería,160
+G52,Expreso,NQS Sur,7,Venecia,160
+G52,Expreso,NQS Sur,8,Paseo Villa del Río - Madelena,160
+G52,Expreso,NQS Sur,9,Perdomo,160
+G52,Expreso,NQS Sur,10,Portal Sur - JFK Coop. financ.,160
+H13,Expreso,Autopista Norte,1,Portal Norte,160
+H13,Expreso,Autopista Norte,2,Calle 161,160
+H13,Expreso,Autopista Norte,3,Mazurén,160
+H13,Expreso,Autopista Norte,4,Calle 146,160
+H13,Expreso,Autopista Norte,5,Calle 142,160
+H13,Expreso,Autopista Norte,6,Calle 127,160
+H13,Expreso,Autopista Norte,7,Calle 106,160
+H13,Expreso,Autopista Norte,8,Calle 85 - GATO DUMAS,160
+H13,Expreso,Caracas,9,Calle 76,160
+H13,Expreso,Caracas,10,Calle 72,160
+H13,Expreso,Caracas,11,Temporal - Flores,160
+H13,Expreso,Caracas,12,Calle 63,160
+H13,Expreso,Caracas,13,AV. 39,160
+H13,Expreso,Caracas,14,Temporal - Calle 22,160
+H13,Expreso,Caracas,15,Tercer Milenio,160
+H13,Expreso,Caracas Sur,16,Hospital,160
+H13,Expreso,Caracas Sur,17,Hortúa,160
+H13,Expreso,Caracas Sur,18,Restrepo,160
+H13,Expreso,Caracas Sur,19,Quiroga,160
+H13,Expreso,Caracas Sur,20,Calle 40 Sur,160
+H13,Expreso,Caracas Sur,21,Biblioteca,160
+H13,Expreso,Caracas Sur,22,Portal Tunal,160
+H15,Expreso,Suba,1,Portal Suba,250
+H15,Expreso,Suba,2,La Campiña,250
+H15,Expreso,Suba,3,Suba - TV 91,250
+H15,Expreso,Suba,4,Gratamira,250
+H15,Expreso,Suba,5,Niza - Calle 127,250
+H15,Expreso,Suba,6,Humedal Córdoba,250
+H15,Expreso,Suba,7,AV. Suba - Calle 116,250
+H15,Expreso,Suba,8,Rionegro,250
+H15,Expreso,Caracas,9,Calle 76,250
+H15,Expreso,Caracas,10,Temporal - Calle 57,250
+H15,Expreso,Caracas,11,Temporal - Marly,250
+H15,Expreso,Caracas,12,Calle 45 - American School Way,250
+H15,Expreso,Caracas,13,Temporal - Calle 22,250
+H15,Expreso,Caracas,14,Calle 19,250
+H15,Expreso,Caracas,15,AV. Jiménez,250
+H15,Expreso,Caracas,16,Tercer Milenio,250
+H15,Expreso,Caracas Sur,17,Nariño,250
+H15,Expreso,Caracas Sur,18,Olaya,250
+H15,Expreso,Caracas Sur,19,Calle 40 Sur,250
+H15,Expreso,Caracas Sur,20,Parque,250
+H15,Expreso,Caracas Sur,21,Portal Tunal,250
+H17,Expreso,Suba,1,Portal Suba,160
+H17,Expreso,Suba,2,La Campiña,160
+H17,Expreso,Suba,3,Suba - TV 91,160
+H17,Expreso,Suba,4,Niza - Calle 127,160
+H17,Expreso,Suba,5,AV. Suba - Calle 116,160
+H17,Expreso,Suba,6,Puentelargo,160
+H17,Expreso,Suba,7,Suba - Calle 100,160
+H17,Expreso,Suba,8,Suba - Calle 95,160
+H17,Expreso,Suba,9,San Martín,160
+H17,Expreso,NQS Central,10,7 de agosto,160
+H17,Expreso,NQS Central,11,U. Nacional,160
+H17,Expreso,NQS Central,12,AV. El Dorado,160
+H17,Expreso,NQS Central,13,Paloquemao,160
+H17,Expreso,NQS Central,14,Guatoque-Veraguas,160
+H17,Expreso,Caracas Sur,15,Hortúa,160
+H17,Expreso,Caracas Sur,16,Restrepo,160
+H17,Expreso,Caracas Sur,17,Quiroga,160
+H17,Expreso,Caracas Sur,18,Santa Lucía,160
+H17,Expreso,Caracas Sur,19,Socorro,160
+H17,Expreso,Caracas Sur,20,Consuelo,160
+H17,Expreso,Caracas Sur,21,Danubio,160
+H17,Expreso,Caracas Sur,22,Portal Usme,160
+H20,Expreso,Calle 80,1,Portal 80,250
+H20,Expreso,Calle 80,2,Quirigua,250
+H20,Expreso,Calle 80,3,Granja - KR 77,250
+H20,Expreso,Calle 80,4,Boyacá,250
+H20,Expreso,Calle 80,5,Ferias,250
+H20,Expreso,Calle 80,6,AV. 68,250
+H20,Expreso,Calle 80,7,Polo - FINCOMERCIO,250
+H20,Expreso,Caracas,8,Temporal - Flores,250
+H20,Expreso,Caracas,9,Calle 63,250
+H20,Expreso,Caracas,10,Calle 45 - American School Way,250
+H20,Expreso,Caracas,11,Temporal - Calle 34,250
+H20,Expreso,Caracas,12,Calle 26,250
+H20,Expreso,Caracas,13,Temporal - Calle 22,250
+H20,Expreso,Caracas,14,Calle 19,250
+H20,Expreso,Caracas,15,AV. Jiménez,250
+H20,Expreso,Caracas Sur,16,Restrepo,250
+H20,Expreso,Caracas Sur,17,Olaya,250
+H20,Expreso,Caracas Sur,18,Quiroga,250
+H20,Expreso,Caracas Sur,19,Calle 40 Sur,250
+H20,Expreso,Caracas Sur,20,Molinos,250
+H20,Expreso,Caracas Sur,21,Portal Usme,250
+H21,Expreso,Calle 80,1,Portal 80,250
+H21,Expreso,Calle 80,2,KR 90,250
+H21,Expreso,Calle 80,3,AV. Cali,250
+H21,Expreso,Calle 80,4,Granja - KR 77,250
+H21,Expreso,Calle 80,5,Minuto de Dios,250
+H21,Expreso,Calle 80,6,AV. 68,250
+H21,Expreso,NQS Central,7,7 de agosto,250
+H21,Expreso,NQS Central,8,Movistar Arena,250
+H21,Expreso,NQS Central,9,Campín - UAN,250
+H21,Expreso,NQS Central,10,Ricaurte,250
+H21,Expreso,NQS Central,11,Guatoque-Veraguas,250
+H21,Expreso,Caracas Sur,12,Fucha,250
+H21,Expreso,Caracas Sur,13,Quiroga,250
+H21,Expreso,Caracas Sur,14,Calle 40 Sur,250
+H21,Expreso,Caracas Sur,15,Santa Lucía,250
+H21,Expreso,Caracas Sur,16,Portal Tunal,250
+H27,Expreso,Autopista Norte,1,Portal Norte,250
+H27,Expreso,Autopista Norte,2,Toberín - Foundever,250
+H27,Expreso,Autopista Norte,3,Calle 100 - Marketmedios,250
+H27,Expreso,Autopista Norte,4,Virrey,250
+H27,Expreso,Autopista Norte,5,Calle 85 - GATO DUMAS,250
+H27,Expreso,Autopista Norte,6,Héroes,250
+H27,Expreso,Caracas,7,Calle 72,250
+H27,Expreso,Caracas,8,Temporal - Calle 34,250
+H27,Expreso,Caracas,9,AV. Jiménez,250
+H27,Expreso,Caracas Sur,10,Calle 40 Sur,250
+H27,Expreso,Caracas Sur,11,Portal Tunal,250
+H54,Expreso,Calle 26,1,Portal Eldorado - C.C. NUESTRO BOGOTÁ,250
+H54,Expreso,Calle 26,2,Modelia,250
+H54,Expreso,Calle 26,3,AV. Rojas - UNISALESIANA,250
+H54,Expreso,Calle 26,4,El Tiempo - CCB,250
+H54,Expreso,Calle 26,5,Salitre - El Greco,250
+H54,Expreso,Calle 26,6,CAN - British Council,250
+H54,Expreso,Calle 26,7,Quinta Paredes,250
+H54,Expreso,Calle 26,8,Corferias,250
+H54,Expreso,Calle 26,9,C. Universitaria - Lotería de Btá.,250
+H54,Expreso,Calle 26,10,Concejo de Bogotá,250
+H54,Expreso,Caracas,11,AV. Jiménez,250
+H54,Expreso,Caracas Sur,12,Hortúa,250
+H54,Expreso,Caracas Sur,13,Restrepo,250
+H54,Expreso,Caracas Sur,14,Calle 40 Sur,250
+H54,Expreso,Caracas Sur,15,Molinos,250
+H54,Expreso,Caracas Sur,16,Danubio,250
+H54,Expreso,Caracas Sur,17,Portal Usme,250
+H72,Expreso,Autopista Norte,1,Toberín - Foundever,160
+H72,Expreso,Autopista Norte,2,Mazurén,160
+H72,Expreso,Autopista Norte,3,Alcalá - Col. S. Tomás Dominicos,160
+H72,Expreso,Autopista Norte,4,Pepe Sierra,160
+H72,Expreso,NQS Central,5,La Castellana,160
+H72,Expreso,NQS Central,6,AV. Chile,160
+H72,Expreso,NQS Central,7,Movistar Arena,160
+H72,Expreso,NQS Central,8,Paloquemao,160
+H72,Expreso,NQS Central,9,Tygua-San José,160
+H72,Expreso,Caracas Sur,10,Hospital,160
+H72,Expreso,Caracas Sur,11,Nariño,160
+H72,Expreso,Caracas Sur,12,Fucha,160
+H72,Expreso,Caracas Sur,13,Olaya,160
+H72,Expreso,Caracas Sur,14,Socorro,160
+H72,Expreso,Caracas Sur,15,Molinos,160
+H72,Expreso,Caracas Sur,16,Portal Usme,160
+H75,Expreso,Autopista Norte,1,Portal Norte,250
+H75,Expreso,Autopista Norte,2,Toberín - Foundever,250
+H75,Expreso,Autopista Norte,3,Calle 146,250
+H75,Expreso,Autopista Norte,4,Calle 142,250
+H75,Expreso,Autopista Norte,5,Prado,250
+H75,Expreso,Autopista Norte,6,Calle 100 - Marketmedios,250
+H75,Expreso,Autopista Norte,7,Héroes,250
+H75,Expreso,Caracas,8,Calle 76,250
+H75,Expreso,Caracas,9,Calle 72,250
+H75,Expreso,Caracas,10,Calle 63,250
+H75,Expreso,Caracas,11,Temporal - Calle 57,250
+H75,Expreso,Caracas,12,Temporal - Marly,250
+H75,Expreso,Caracas,13,AV. 39,250
+H75,Expreso,Caracas,14,AV. Jiménez,250
+H75,Expreso,Caracas Sur,15,Hortúa,250
+H75,Expreso,Caracas Sur,16,Nariño,250
+H75,Expreso,Caracas Sur,17,Fucha,250
+H75,Expreso,Caracas Sur,18,Santa Lucía,250
+H75,Expreso,Caracas Sur,19,Socorro,250
+H75,Expreso,Caracas Sur,20,Consuelo,250
+H75,Expreso,Caracas Sur,21,Molinos,250
+H75,Expreso,Caracas Sur,22,Danubio,250
+H75,Expreso,Caracas Sur,23,Portal Usme,250
+H76,Expreso,Calle 26,1,Universidades - CityU,250
+H76,Expreso,Caracas,2,Calle 19,250
+H76,Expreso,Caracas,3,AV. Jiménez,250
+H76,Expreso,Caracas,4,Tercer Milenio,250
+H76,Expreso,Caracas Sur,5,Restrepo,250
+H76,Expreso,Caracas Sur,6,Calle 40 Sur,250
+H76,Expreso,Caracas Sur,7,Santa Lucía,250
+H76,Expreso,Caracas Sur,8,Socorro,250
+H76,Expreso,Caracas Sur,9,Consuelo,250
+H76,Expreso,Caracas Sur,10,Molinos,250
+H76,Expreso,Caracas Sur,11,Danubio,250
+H76,Expreso,Caracas Sur,12,Portal Usme,250
+J23,Expreso,Américas,1,Portal Américas,250
+J23,Expreso,Américas,2,Patio Bonito,250
+J23,Expreso,Américas,3,Biblioteca Tintal,250
+J23,Expreso,Américas,4,Banderas,250
+J23,Expreso,Américas,5,AV. Américas - AV. Boyacá,250
+J23,Expreso,Américas,6,Pradera - Plaza Central,250
+J23,Expreso,Américas,7,Puente Aranda,250
+J23,Expreso,Américas,8,Ricaurte,250
+J23,Expreso,Américas,9,San Façon - KR 22,250
+J23,Expreso,Eje Ambiental,10,AV. Jiménez,250
+J23,Expreso,Eje Ambiental,11,Museo del Oro,250
+J23,Expreso,Eje Ambiental,12,Las Aguas - C. Col Americano,250
+J24,Expreso,Calle 80,1,Portal 80,250
+J24,Expreso,Calle 80,2,KR 90,250
+J24,Expreso,Calle 80,3,AV. Cali,250
+J24,Expreso,Calle 80,4,Granja - KR 77,250
+J24,Expreso,Calle 80,5,Minuto de Dios,250
+J24,Expreso,Calle 80,6,KR 47,250
+J24,Expreso,Calle 80,7,Escuela Militar,250
+J24,Expreso,Caracas,8,Calle 76,250
+J24,Expreso,Caracas,9,Calle 72,250
+J24,Expreso,Caracas,10,Temporal - Calle 57,250
+J24,Expreso,Caracas,11,Temporal - Marly,250
+J24,Expreso,Caracas,12,AV. 39,250
+J24,Expreso,Calle 26,13,Universidades - CityU,250
+J70,Expreso,Autopista Norte,1,Portal Norte,160
+J70,Expreso,Autopista Norte,2,Toberín - Foundever,160
+J70,Expreso,Autopista Norte,3,Mazurén,160
+J70,Expreso,Autopista Norte,4,Calle 146,160
+J70,Expreso,Autopista Norte,5,Calle 142,160
+J70,Expreso,Autopista Norte,6,Alcalá - Col. S. Tomás Dominicos,160
+J70,Expreso,Autopista Norte,7,Prado,160
+J70,Expreso,Autopista Norte,8,Calle 127,160
+J70,Expreso,NQS Central,9,CAD,160
+J70,Expreso,Eje Ambiental,10,AV. Jiménez,160
+J70,Expreso,Eje Ambiental,11,Museo del Oro,160
+J70,Expreso,Eje Ambiental,12,Las Aguas - C. Col Americano,160
+J73,Expreso,Suba,1,Portal Suba,250
+J73,Expreso,Suba,2,La Campiña,250
+J73,Expreso,Suba,3,Suba - TV 91,250
+J73,Expreso,Suba,4,Niza - Calle 127,250
+J73,Expreso,Suba,5,Puentelargo,250
+J73,Expreso,Suba,6,Suba - Calle 100,250
+J73,Expreso,Suba,7,San Martín,250
+J73,Expreso,Calle 26,8,C. Universitaria - Lotería de Btá.,250
+J73,Expreso,Calle 26,9,Centro Memoria,250
+J73,Expreso,Calle 26,10,Universidades - CityU,250
+J74,Expreso,Autopista Norte,1,Portal Norte,160
+J74,Expreso,Autopista Norte,2,Toberín - Foundever,160
+J74,Expreso,Autopista Norte,3,Mazurén,160
+J74,Expreso,Autopista Norte,4,Calle 146,160
+J74,Expreso,Autopista Norte,5,Calle 142,160
+J74,Expreso,Autopista Norte,6,Prado,160
+J74,Expreso,Autopista Norte,7,Virrey,160
+J74,Expreso,Autopista Norte,8,Héroes,160
+J74,Expreso,Caracas,9,Temporal - Calle 57,160
+J74,Expreso,Caracas,10,Calle 45 - American School Way,160
+J74,Expreso,Caracas,11,AV. 39,160
+J74,Expreso,Caracas,12,Calle 26,160
+J74,Expreso,Caracas,13,Calle 19,160
+J74,Expreso,Calle 26,14,Universidades - CityU,160
+J76,Expreso,Caracas Sur,1,Portal Usme,250
+J76,Expreso,Caracas Sur,2,Danubio,250
+J76,Expreso,Caracas Sur,3,Consuelo,250
+J76,Expreso,Caracas Sur,4,Socorro,250
+J76,Expreso,Caracas Sur,5,Santa Lucía,250
+J76,Expreso,Caracas Sur,6,Calle 40 Sur,250
+J76,Expreso,Caracas Sur,7,Restrepo,250
+J76,Expreso,Caracas,8,Tercer Milenio,250
+J76,Expreso,Caracas,9,AV. Jiménez,250
+J76,Expreso,Caracas,10,Calle 19,250
+J76,Expreso,Calle 26,11,Universidades - CityU,250
+K10,Expreso,Carrera 10,1,Portal 20 de Julio,250
+K10,Expreso,Carrera 10,2,AV. 1° Mayo,250
+K10,Expreso,Carrera 10,3,Ciudad Jardín - UAN,250
+K10,Expreso,Carrera 10,4,San Bernardo,250
+K10,Expreso,Carrera 10,5,Bicentenario,250
+K10,Expreso,Carrera 10,6,San Victorino,250
+K10,Expreso,Carrera 10,7,Las Nieves,250
+K10,Expreso,Calle 26,8,Centro Memoria,250
+K10,Expreso,Calle 26,9,C. Universitaria - Lotería de Btá.,250
+K10,Expreso,Calle 26,10,Gobernación,250
+K10,Expreso,Calle 26,11,CAN - British Council,250
+K10,Expreso,Calle 26,12,Salitre - El Greco,250
+K10,Expreso,Calle 26,13,Normandía,250
+K10,Expreso,Calle 26,14,Modelia,250
+K10,Expreso,Calle 26,15,Portal Eldorado - C.C. NUESTRO BOGOTÁ,250
+K16,Expreso,Autopista Norte,1,Terminal,250
+K16,Expreso,Autopista Norte,2,Calle 187,250
+K16,Expreso,Autopista Norte,3,Toberín - Foundever,250
+K16,Expreso,Autopista Norte,4,Mazurén,250
+K16,Expreso,Autopista Norte,5,Alcalá - Col. S. Tomás Dominicos,250
+K16,Expreso,Autopista Norte,6,Pepe Sierra,250
+K16,Expreso,NQS Central,7,AV. Chile,250
+K16,Expreso,NQS Central,8,AV. El Dorado,250
+K16,Expreso,Calle 26,9,Corferias,250
+K16,Expreso,Calle 26,10,Quinta Paredes,250
+K16,Expreso,Calle 26,11,CAN - British Council,250
+K16,Expreso,Calle 26,12,Salitre - El Greco,250
+K16,Expreso,Calle 26,13,El Tiempo - CCB,250
+K16,Expreso,Calle 26,14,AV. Rojas - UNISALESIANA,250
+K16,Expreso,Calle 26,15,Modelia,250
+K16,Expreso,Calle 26,16,Portal Eldorado - C.C. NUESTRO BOGOTÁ,250
+K23,Expreso,Autopista Norte,1,Alcalá - Col. S. Tomás Dominicos,160
+K23,Expreso,Autopista Norte,2,Prado,160
+K23,Expreso,Autopista Norte,3,Calle 127,160
+K23,Expreso,Autopista Norte,4,Calle 85 - GATO DUMAS,160
+K23,Expreso,Caracas,5,Temporal - Calle 57,160
+K23,Expreso,Caracas,6,Temporal - Marly,160
+K23,Expreso,Caracas,7,Calle 45 - American School Way,160
+K23,Expreso,Caracas,8,Temporal - Calle 34,160
+K23,Expreso,Caracas,9,Calle 26,160
+K23,Expreso,Calle 26,10,Concejo de Bogotá,160
+K23,Expreso,Calle 26,11,C. Universitaria - Lotería de Btá.,160
+K23,Expreso,Calle 26,12,Gobernación,160
+K23,Expreso,Calle 26,13,CAN - British Council,160
+K23,Expreso,Calle 26,14,Salitre - El Greco,160
+K23,Expreso,Calle 26,15,El Tiempo - CCB,160
+K23,Expreso,Calle 26,16,AV. Rojas - UNISALESIANA,160
+K23,Expreso,Calle 26,17,Portal Eldorado - C.C. NUESTRO BOGOTÁ,160
+K43,Expreso,NQS Sur,1,San Mateo,250
+K43,Expreso,NQS Sur,2,Terreros - Hospital C.V.,250
+K43,Expreso,NQS Sur,3,León XIII,250
+K43,Expreso,NQS Sur,4,La Despensa,250
+K43,Expreso,NQS Sur,5,Venecia,250
+K43,Expreso,NQS Sur,6,Gral. Santander,250
+K43,Expreso,NQS Sur,7,SENA,250
+K43,Expreso,NQS Central,8,Ricaurte,250
+K43,Expreso,NQS Central,9,CAD,250
+K43,Expreso,Calle 26,10,Corferias,250
+K43,Expreso,Calle 26,11,Quinta Paredes,250
+K43,Expreso,Calle 26,12,Gobernación,250
+K43,Expreso,Calle 26,13,Salitre - El Greco,250
+K43,Expreso,Calle 26,14,El Tiempo - CCB,250
+K43,Expreso,Calle 26,15,Normandía,250
+K43,Expreso,Calle 26,16,Modelia,250
+K43,Expreso,Calle 26,17,Portal Eldorado - C.C. NUESTRO BOGOTÁ,250
+K54,Expreso,Caracas Sur,1,Portal Usme,250
+K54,Expreso,Caracas Sur,2,Danubio,250
+K54,Expreso,Caracas Sur,3,Molinos,250
+K54,Expreso,Caracas Sur,4,Calle 40 Sur,250
+K54,Expreso,Caracas Sur,5,Restrepo,250
+K54,Expreso,Caracas Sur,6,Hortúa,250
+K54,Expreso,Caracas,7,AV. Jiménez,250
+K54,Expreso,Calle 26,8,Concejo de Bogotá,250
+K54,Expreso,Calle 26,9,C. Universitaria - Lotería de Btá.,250
+K54,Expreso,Calle 26,10,Corferias,250
+K54,Expreso,Calle 26,11,Quinta Paredes,250
+K54,Expreso,Calle 26,12,CAN - British Council,250
+K54,Expreso,Calle 26,13,Salitre - El Greco,250
+K54,Expreso,Calle 26,14,El Tiempo - CCB,250
+K54,Expreso,Calle 26,15,AV. Rojas - UNISALESIANA,250
+K54,Expreso,Calle 26,16,Modelia,250
+K54,Expreso,Calle 26,17,Portal Eldorado - C.C. NUESTRO BOGOTÁ,250
+L10,Expreso,Calle 26,1,Portal Eldorado - C.C. NUESTRO BOGOTÁ,250
+L10,Expreso,Calle 26,2,Modelia,250
+L10,Expreso,Calle 26,3,Normandía,250
+L10,Expreso,Calle 26,4,Salitre - El Greco,250
+L10,Expreso,Calle 26,5,CAN - British Council,250
+L10,Expreso,Calle 26,6,Gobernación,250
+L10,Expreso,Calle 26,7,C. Universitaria - Lotería de Btá.,250
+L10,Expreso,Calle 26,8,Centro Memoria,250
+L10,Expreso,Carrera 10,9,Las Nieves,250
+L10,Expreso,Carrera 10,10,San Victorino,250
+L10,Expreso,Carrera 10,11,Bicentenario,250
+L10,Expreso,Carrera 10,12,San Bernardo,250
+L10,Expreso,Carrera 10,13,Ciudad Jardín - UAN,250
+L10,Expreso,Carrera 10,14,AV. 1° Mayo,250
+L10,Expreso,Carrera 10,15,Portal 20 de Julio,250
+L18,Expreso,Autopista Norte,1,Terminal,250
+L18,Expreso,Autopista Norte,2,Calle 187,250
+L18,Expreso,Autopista Norte,3,Alcalá - Col. S. Tomás Dominicos,250
+L18,Expreso,Autopista Norte,4,Calle 127,250
+L18,Expreso,Autopista Norte,5,Pepe Sierra,250
+L18,Expreso,Autopista Norte,6,Virrey,250
+L18,Expreso,Caracas,7,Calle 76,250
+L18,Expreso,Caracas,8,Calle 63,250
+L18,Expreso,Caracas,9,Calle 45 - American School Way,250
+L18,Expreso,Caracas,10,Temporal - Calle 34,250
+L18,Expreso,Caracas,11,AV. Jiménez,250
+L18,Expreso,Caracas,12,Tercer Milenio,250
+L18,Expreso,Carrera 10,13,Bicentenario,250
+L18,Expreso,Carrera 10,14,San Bernardo,250
+L18,Expreso,Carrera 10,15,AV. 1° Mayo,250
+L18,Expreso,Carrera 10,16,Country Sur,250
+L18,Expreso,Carrera 10,17,Portal 20 de Julio,250
+L25,Expreso,Suba,1,Portal Suba,250
+L25,Expreso,Suba,2,La Campiña,250
+L25,Expreso,Suba,3,Suba - TV 91,250
+L25,Expreso,Suba,4,21 Ángeles,250
+L25,Expreso,Suba,5,Suba - AV. Boyacá,250
+L25,Expreso,Suba,6,Niza - Calle 127,250
+L25,Expreso,Suba,7,Suba - Calle 95,250
+L25,Expreso,Suba,8,San Martín,250
+L25,Expreso,NQS Central,9,NQS - Calle 75,250
+L25,Expreso,NQS Central,10,AV. Chile,250
+L25,Expreso,NQS Central,11,Movistar Arena,250
+L25,Expreso,NQS Central,12,Campín - UAN,250
+L25,Expreso,NQS Central,13,Ricaurte,250
+L25,Expreso,NQS Central,14,Guatoque-Veraguas,250
+L25,Expreso,NQS Central,15,Tygua-San José,250
+L25,Expreso,Carrera 10,16,Bicentenario,250
+L25,Expreso,Carrera 10,17,San Bernardo,250
+L25,Expreso,Carrera 10,18,AV. 1° Mayo,250
+L25,Expreso,Carrera 10,19,Country Sur,250
+L25,Expreso,Carrera 10,20,Portal 20 de Julio,250
+L41,Expreso,NQS Sur,1,San Mateo,250
+L41,Expreso,NQS Sur,2,Terreros - Hospital C.V.,250
+L41,Expreso,NQS Sur,3,Bosa,250
+L41,Expreso,NQS Sur,4,Alquería,250
+L41,Expreso,NQS Sur,5,NQS - Calle 30 S.,250
+L41,Expreso,NQS Central,6,Guatoque-Veraguas,250
+L41,Expreso,NQS Central,7,Tygua-San José,250
+L41,Expreso,Carrera 10,8,Bicentenario,250
+M47,Expreso,NQS Sur,1,Portal Sur - JFK Coop. financ.,250
+M47,Expreso,NQS Sur,2,Perdomo,250
+M47,Expreso,NQS Sur,3,Paseo Villa del Río - Madelena,250
+M47,Expreso,NQS Sur,4,Sevillana,250
+M47,Expreso,NQS Sur,5,NQS - Calle 38A S.,250
+M47,Expreso,NQS Sur,6,Comuneros,250
+M47,Expreso,NQS Central,7,Guatoque-Veraguas,250
+M47,Expreso,NQS Central,8,Tygua-San José,250
+M47,Expreso,Carrera 10,9,San Victorino,250
+M47,Expreso,Carrera 10,10,Las Nieves,250
+M47,Expreso,Carrera 10,11,San Diego,250
+M47,Expreso,Carrera 7,12,Museo Nacional - FNG,250
+M51,Expreso,Américas,1,Portal Américas,250
+M51,Expreso,Américas,2,Patio Bonito,250
+M51,Expreso,Américas,3,Biblioteca Tintal,250
+M51,Expreso,Américas,4,Banderas,250
+M51,Expreso,Américas,5,Mandalay,250
+M51,Expreso,Américas,6,AV. Américas - AV. Boyacá,250
+M51,Expreso,Américas,7,Marsella,250
+M51,Expreso,Américas,8,Pradera - Plaza Central,250
+M51,Expreso,Américas,9,Distrito Grafiti,250
+M51,Expreso,Américas,10,Ricaurte,250
+M51,Expreso,Carrera 10,11,Las Nieves,250
+M51,Expreso,Carrera 10,12,San Diego,250
+M51,Expreso,Carrera 7,13,Museo Nacional - FNG,250
+C84,Dual,Calle 80,1,Polo - FINCOMERCIO,80
+C84,Dual,Suba,2,Puentelargo,80
+C84,Dual,Suba,3,21 Ángeles,80
+D81,Dual,Carrera 10,1,Portal 20 de Julio,80
+D81,Dual,Carrera 10,2,Country Sur,80
+D81,Dual,Carrera 10,3,AV. 1° Mayo,80
+D81,Dual,Carrera 10,4,Bicentenario,80
+D81,Dual,Carrera 10,5,San Victorino,80
+D81,Dual,Carrera 7,6,Museo Nacional - FNG,80
+D81,Dual,Calle 80,7,Polo - FINCOMERCIO,80
+D81,Dual,Calle 80,8,KR 47,80
+D81,Dual,Calle 80,9,AV. 68,80
+H83,Dual,Carrera 7,1,Museo Nacional - FNG,160
+H83,Dual,Carrera 10,2,San Diego,160
+H83,Dual,Carrera 10,3,San Victorino,160
+H83,Dual,Carrera 10,4,Bicentenario,160
+H83,Dual,Carrera 10,5,Policarpa,160
+H83,Dual,Carrera 10,6,AV. 1° Mayo,160
+H83,Dual,Caracas Sur,7,Quiroga,160
+H83,Dual,Caracas Sur,8,Consuelo,160
+H83,Dual,Caracas Sur,9,Danubio,160
+H83,Dual,Caracas Sur,10,Portal Usme,160
+K86,Dual,Carrera 7,1,Museo Nacional - FNG,80
+K86,Dual,Calle 26,2,Concejo de Bogotá,80
+K86,Dual,Calle 26,3,Corferias,80
+K86,Dual,Calle 26,4,Gobernación,80
+K86,Dual,Calle 26,5,CAN - British Council,80
+K86,Dual,Calle 26,6,El Tiempo - CCB,80
+K86,Dual,Calle 26,7,AV. Rojas - UNISALESIANA,80
+K86,Dual,Calle 26,8,Portal Eldorado - C.C. NUESTRO BOGOTÁ,80
+L81,Dual,Calle 80,1,AV. 68,80
+L81,Dual,Calle 80,2,KR 47,80
+L81,Dual,Calle 80,3,Polo - FINCOMERCIO,80
+L81,Dual,Carrera 7,4,Museo Nacional - FNG,80
+L81,Dual,Carrera 10,5,San Victorino,80
+L81,Dual,Carrera 10,6,Bicentenario,80
+L81,Dual,Carrera 10,7,AV. 1° Mayo,80
+L81,Dual,Carrera 10,8,Country Sur,80
+L81,Dual,Carrera 10,9,Portal 20 de Julio,80
+L82,Dual,Carrera 10,1,San Diego,80
+L82,Dual,Carrera 10,2,Bicentenario,80
+L82,Dual,Carrera 10,3,AV. 1° Mayo,80
+L82,Dual,Carrera 10,4,Country Sur,80
+L82,Dual,Carrera 10,5,Portal 20 de Julio,80
+M82,Dual,Carrera 10,1,Portal 20 de Julio,80
+M82,Dual,Carrera 10,2,Country Sur,80
+M82,Dual,Carrera 10,3,AV. 1° Mayo,80
+M82,Dual,Carrera 10,4,Bicentenario,80
+M82,Dual,Carrera 10,5,San Diego,80
+M83,Dual,Caracas Sur,1,Portal Usme,160
+M83,Dual,Caracas Sur,2,Danubio,160
+M83,Dual,Caracas Sur,3,Consuelo,160
+M83,Dual,Caracas Sur,4,Quiroga,160
+M83,Dual,Carrera 10,5,AV. 1° Mayo,160
+M83,Dual,Carrera 10,6,Policarpa,160
+M83,Dual,Carrera 10,7,Bicentenario,160
+M83,Dual,Carrera 10,8,San Victorino,160
+M83,Dual,Carrera 10,9,San Diego,160
+M83,Dual,Carrera 7,10,Museo Nacional - FNG,160
+M84,Dual,Suba,1,21 Ángeles,80
+M84,Dual,Suba,2,Puentelargo,80
+M84,Dual,Calle 80,3,Polo - FINCOMERCIO,80
+M85,Dual,Calle 26,1,Salitre - El Greco,80
+M85,Dual,Calle 26,2,CAN - British Council,80
+M85,Dual,Calle 26,3,Quinta Paredes,80
+M85,Dual,Calle 26,4,Centro Memoria,80
+M85,Dual,Carrera 7,5,Museo Nacional - FNG,80
+M86,Dual,Calle 26,1,Portal Eldorado - C.C. NUESTRO BOGOTÁ,80
+M86,Dual,Calle 26,2,AV. Rojas - UNISALESIANA,80
+M86,Dual,Calle 26,3,El Tiempo - CCB,80
+M86,Dual,Calle 26,4,CAN - British Council,80
+M86,Dual,Calle 26,5,Gobernación,80
+M86,Dual,Calle 26,6,Corferias,80
+M86,Dual,Calle 26,7,Concejo de Bogotá,80
+M86,Dual,Carrera 10,8,San Diego,80
+M86,Dual,Carrera 7,9,Museo Nacional - FNG,80
+P85,Dual,Carrera 7,1,Museo Nacional - FNG,80
+P85,Dual,Calle 26,2,Centro Memoria,80
+P85,Dual,Calle 26,3,Quinta Paredes,80
+P85,Dual,Calle 26,4,CAN - British Council,80
+P85,Dual,Calle 26,5,Salitre - El Greco,80

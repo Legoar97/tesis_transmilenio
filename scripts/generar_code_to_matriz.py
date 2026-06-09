@@ -45,22 +45,27 @@ import argparse
 import json
 from pathlib import Path
 
-DIR = Path(__file__).resolve().parent
-CATALOGO = DIR / "catalogo_estaciones_troncales.geojson"
-CORRESPONDENCIA = DIR / "correspondencia_oficial_matriz.json"
-SALIDA = DIR / "code_to_matriz.json"
+# Rutas relativas a la raíz del repo (el script vive en scripts/; los datos en data/soporte/)
+RAIZ = Path(__file__).resolve().parent.parent
+SOPORTE = RAIZ / "data" / "soporte"
+CATALOGO = SOPORTE / "catalogo_estaciones_troncales.geojson"
+CORRESPONDENCIA = SOPORTE / "correspondencia_oficial_matriz.json"
+SALIDA = SOPORTE / "code_to_matriz.json"
 
 # Códigos presentes en las validaciones que NO son estaciones de pasajeros del
 # catálogo. Se mapean a la estación operativamente asociada. Decisión metodológica:
 # los corrales (prefijo 50) son patios de buses; pueden excluirse quitándolos de aquí.
 CODIGOS_OPERACIONALES = {
-    "04004": "La Granja",                              # acceso/variante
-    "08100": "Portal Tunal",                           # TransMiCable / acceso Tunal
-    "50003": "Molinos",                                # corral (patio de buses)
-    "50004": "AV. Ciudad de Cali",                     # corral (patio de buses)
-    "50008": "Portal Eldorado - C.C. NUESTRO BOGOTÁ",  # corral (patio de buses)
-    "57503": "San Mateo",                              # ampliación San Mateo (Soacha)
+    "04004": "Granja - KR 77",   # acceso/variante de La Granja
+    "08100": "Portal Tunal",     # TransMiCable / acceso Tunal
+    "50003": "Molinos",          # corral (patio de buses)
+    "50004": "AV. Cali",         # corral (patio de buses)
+    "57503": "San Mateo",        # ampliación San Mateo (Soacha)
 }
+# Nota: el corral 50008 (Portal Eldorado) NO hace parte del mapeo vigente
+# (code_to_matriz.json tiene 155 códigos). Incluirlo sumaría validaciones de
+# patio a esa estación y obligaría a re-correr todo el pipeline; si se decide
+# incluirlo, agregarlo aquí y regenerar.
 
 
 def cargar_catalogo(ruta):

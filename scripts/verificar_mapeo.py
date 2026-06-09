@@ -36,10 +36,11 @@ import re
 import unicodedata
 from pathlib import Path
 
-# --- rutas (ajustar si es necesario) ---
-DIR = Path(__file__).resolve().parent
-CODE_TO_MATRIZ = DIR / "code_to_matriz.json"
-CATALOGO = DIR / "catalogo_estaciones_troncales.geojson"
+# --- rutas relativas a la raíz del repo ---
+RAIZ = Path(__file__).resolve().parent.parent
+SOPORTE = RAIZ / "data" / "soporte"
+CODE_TO_MATRIZ = SOPORTE / "code_to_matriz.json"
+CATALOGO = SOPORTE / "catalogo_estaciones_troncales.geojson"
 
 
 def normalizar(texto):

@@ -27,7 +27,8 @@ tesis-transmilenio/
 │   └── 04_OE5_modelo_XGBoost.ipynb      # Obj. Espec.5  modelo y anticipación de picos
 ├── scripts/
 │   ├── generar_code_to_matriz.py        # reconstruye el mapeo código→estación
-|   └── verificar_mapeo.py               # verifica que los códigos y las estaciones en la matriz estén correctos 
+│   ├── verificar_mapeo.py               # verifica el mapeo contra el catálogo oficial (por código)
+│   └── construir_matriz_ruta_estacion.py  # construye/audita la matriz ruta-estación (--check)
 ├── data/
 │   ├── raw/                         # 24 .xlsx de validaciones (NO versionado — ver README interno)
 │   ├── soporte/                     # matriz de paradas, servicios, catálogo, diccionarios
@@ -58,6 +59,8 @@ Por tamaño, **no se versionan** las validaciones mensuales (`data/raw/*.xlsx`, 
 - **`ipd_completo.csv`:** se regenera corriendo `02_OE2-OE3_ICP_IPD`.
 
 Los **datos de soporte** (matriz de paradas, catálogo de servicios y de estaciones, y diccionarios de equivalencia código→estación) sí están versionados en `data/soporte/`, de modo que el pipeline es reproducible una vez descargadas las validaciones.
+
+La **matriz ruta-estación** (`data/soporte/matriz_ruta_estacion_troncal.csv`: 102 rutas, 1.460 paradas) se construye y audita con `scripts/construir_matriz_ruta_estacion.py` a partir de la *Guía General de viaje de TransMilenio* (corte dic-2025, paradas por servicio) y del GIS oficial de TransMilenio (tipo de bus por ruta → capacidad 250/160/80 y corredor por trazado). `python scripts/construir_matriz_ruta_estacion.py --check` verifica que el CSV versionado coincida con el generado.
 
 ## Reproducibilidad
 
