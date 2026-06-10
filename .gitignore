@@ -1,11 +1,11 @@
 # ============================================================
-#  Datos pesados — NO van a GitHub (se descargan o se regeneran)
+#  Datos pesados — NO van a GitHub 
 # ============================================================
 # Validaciones mensuales TuLlave (~330 MB) — descargar del portal de datos abiertos
 data/raw/*.xlsx
 data/raw/*.xls
 
-# Panel IPD completo (~590 MB) — supera el límite de GitHub; se regenera con 02_OE2-OE3_ICP_IPD
+# Panel IPD completo (~590 MB) — supera el límite de GitHub; se regenera con 04_OE5_modelo_XGBoost
 ipd_completo.csv
 outputs/tablas/ipd_completo.csv
 
@@ -14,7 +14,7 @@ data/intermedia/
 *.parquet
 
 # ============================================================
-#  Versiones viejas archivadas (quita esta línea si quieres versionarlas)
+#  Versiones viejas archivadas
 # ============================================================
 _archivo/
 
@@ -37,3 +37,4 @@ Thumbs.db
 desktop.ini
 .vscode/
 .idea/
+

@@ -1,5 +1,5 @@
 pandas>=2.0
-geopandas>=0.14
+geopandas>=0.14   # solo lo usa mapa_geo/build_mapa_gpkg.py (capa QGIS); los notebooks no lo requieren
 numpy>=1.24
 matplotlib>=3.7
 seaborn>=0.12

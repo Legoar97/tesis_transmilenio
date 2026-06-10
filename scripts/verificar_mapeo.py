@@ -10,9 +10,10 @@ POR QUÉ EXISTE
 estable que aparece en las validaciones de TuLlave) al nombre canónico usado en la
 matriz ruta-estación. El diccionario se construyó a partir de fuentes OFICIALES de
 TransMilenio (la Guía para transbordos del componente troncal y el catálogo de
-estaciones), apoyándose en dos tablas de correspondencia de nombres documentadas en
-el repositorio: `station_equivalences.json` (variantes de nombre -> nombre matriz) y
-`station_master_mapping.json` (nombre oficial <-> nombre matriz).
+estaciones) y se reconstruye con `generar_code_to_matriz.py` a partir del catálogo
+y de la tabla de correspondencia `correspondencia_oficial_matriz.json`. (Las tablas
+de trabajo intermedias del proceso de curaduría —station_equivalences,
+station_master_mapping— quedaron archivadas en `_archivo/soporte_no_usado/`.)
 
 Como el código de estación es el identificador estable (el nombre textual varía entre
 archivos mensuales), la verificación se hace POR CÓDIGO contra el catálogo oficial:
@@ -53,6 +54,13 @@ def normalizar(texto):
     return {w for w in t.split() if w not in vacias and len(w) > 1}
 
 
+def normalizar_compacto(texto):
+    """Versión sin espacios ni puntuación, para grafías que solo difieren en
+    el espaciado (p. ej. 'AV. ElDorado' vs 'AV. El Dorado')."""
+    t = unicodedata.normalize("NFKD", str(texto)).encode("ascii", "ignore").decode().lower()
+    return re.sub(r"[^a-z0-9]", "", t)
+
+
 def cargar_catalogo(ruta):
     """Devuelve {codigo_5_digitos: nombre_oficial} desde el GeoJSON oficial."""
     gj = json.load(open(ruta, encoding="utf-8"))
@@ -78,6 +86,9 @@ def verificar(code_to_matriz, catalogo):
         oficial = catalogo[c5]
         a, b = normalizar(oficial), normalizar(nombre_matriz)
         if a and b and not (a & b):  # sin ninguna palabra en común -> sospechoso
+            # segundo filtro: misma cadena al quitar espacios/puntuación no es discrepancia
+            if normalizar_compacto(oficial) == normalizar_compacto(nombre_matriz):
+                continue
             discrepancias.append((codigo, oficial, nombre_matriz))
     return discrepancias, fuera_de_catalogo
 

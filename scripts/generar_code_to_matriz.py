@@ -63,10 +63,7 @@ CODIGOS_OPERACIONALES = {
     "57503": "San Mateo",        # ampliación San Mateo (Soacha)
 }
 # Nota: el corral 50008 (Portal Eldorado) NO hace parte del mapeo vigente
-# (code_to_matriz.json tiene 155 códigos). Incluirlo sumaría validaciones de
-# patio a esa estación y obligaría a re-correr todo el pipeline; si se decide
-# incluirlo, agregarlo aquí y regenerar.
-
+# (code_to_matriz.json tiene 155 códigos).
 
 def cargar_catalogo(ruta):
     """{codigo_5_digitos: nombre_oficial} desde el GeoJSON oficial."""
