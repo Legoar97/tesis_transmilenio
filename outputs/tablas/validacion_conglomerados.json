@@ -1,0 +1,80 @@
+{
+  "fecha_ejecucion": "2026-06-18",
+  "n_estaciones": 148,
+  "n_variables": 27,
+  "silueta_por_K": {
+    "2": 0.463,
+    "3": 0.495,
+    "4": 0.508,
+    "5": 0.454,
+    "6": 0.272,
+    "7": 0.311,
+    "8": 0.302
+  },
+  "K_elegido": 4,
+  "silueta_K_elegido": 0.508,
+  "estabilidad_inicializaciones": {
+    "corridas": 20,
+    "pares_comparados": 190,
+    "ari_medio": 0.971,
+    "ari_min": 0.806,
+    "ari_max": 1.0,
+    "ari_de": 0.049
+  },
+  "ari_kmeans_vs_ward": 0.9,
+  "estaciones_silueta_negativa": {
+    "AV. 1° Mayo": -0.137,
+    "Calle 127": -0.122,
+    "Comuneros": -0.094,
+    "De la Sabana": -0.031,
+    "Las Nieves": -0.101,
+    "Policarpa": -0.023
+  },
+  "kruskal_wallis_habiles": {
+    "H": 602872.69,
+    "p": 0.0
+  },
+  "nivel_estacion": {
+    "kruskal_wallis": {
+      "H": 97.76,
+      "p": 0.0
+    },
+    "mann_whitney_bonferroni": {
+      "0_vs_1": {
+        "U": 210.0,
+        "p": 0.6335,
+        "resultado": "no significativo"
+      },
+      "0_vs_2": {
+        "U": 1383.0,
+        "p": 0.0,
+        "resultado": "significativo"
+      },
+      "0_vs_3": {
+        "U": 25.0,
+        "p": 0.1,
+        "resultado": "no significativo"
+      },
+      "1_vs_2": {
+        "U": 3266.0,
+        "p": 0.0,
+        "resultado": "significativo"
+      },
+      "1_vs_3": {
+        "U": 59.0,
+        "p": 0.0672,
+        "resultado": "no significativo"
+      },
+      "2_vs_3": {
+        "U": 0.0,
+        "p": 0.0004,
+        "resultado": "significativo"
+      }
+    }
+  },
+  "sensibilidad_solo_picos": {
+    "silueta_picos": 0.388,
+    "ari_dia_vs_picos": 0.601,
+    "pct_permanencia_grupo_equivalente": 0.899
+  }
+}
