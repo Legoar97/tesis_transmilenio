@@ -1,4 +1,4 @@
-# Desbalance Oferta-Demanda en el Componente Troncal de TransMilenio Mediante Ciencia de Datos
+# Desbalance oferta-demanda en el componente troncal de TransMilenio mediante ciencia de datos
 
 Trabajo de grado — **Ciencia de Datos, Universidad Externado de Colombia**
 Autor: **Iván Ramiro Pinzón Pinto** · Directora: **Yessica Velásquez**
@@ -30,7 +30,6 @@ Los cuadernos documentan en celdas markdown **el porqué de cada decisión metod
 tesis-transmilenio/
 ├── README.md
 ├── requirements.txt
-├── Apendice_A_diccionario_estaciones.html   # Apéndice A: diccionario código→estación (155→148)
 ├── notebooks/                       # se corren EN ORDEN; cada uno carga lo del anterior
 │   ├── 00_preparacion_datos.ipynb
 │   ├── 01_OE1_patrones.ipynb
@@ -47,7 +46,7 @@ tesis-transmilenio/
 │   └── intermedia/                  # .parquet generados al correr (NO versionados)
 ├── outputs/
 │   ├── figuras/                     # figuras exportadas (.png)
-│   └── tablas/                      # icp_por_estacion, conglomerados_por_estacion, metricas_modelo, oe1_*
+│   └── tablas/                      # icp_por_estacion, conglomerados_por_estacion, validacion_conglomerados, metricas_modelo, oe1_*
 ├── mapa_geo/                        # capa QGIS de estaciones/corredores; se genera con build_mapa_gpkg.py
 ├── presentacion/                    # presentación y guion de sustentación (no son parte del pipeline)
 └── _archivo/                        # versiones viejas y archivos no usados (NO versionado)
@@ -84,7 +83,7 @@ pip install -r requirements.txt          # Python 3.11
 | 00 | Excel de validaciones + CSV/JSON de soporte | `validaciones_consolidadas`, `matriz_estandarizada`, `troncal_serv` |
 | 01 | `validaciones_consolidadas` | figuras + tablas `oe1_*` |
 | 02 | `matriz_estandarizada`, `troncal_serv`, `validaciones_consolidadas` | `panel_icp_ipd`, `icp`, `icp_por_estacion.csv` |
-| 03 | `panel_icp_ipd` | `panel_con_clusters`, `cluster_df`, `conglomerados_por_estacion.csv` |
+| 03 | `panel_icp_ipd` | `panel_con_clusters`, `cluster_df`, `conglomerados_por_estacion.csv`, `validacion_conglomerados.json` |
 | 04 | `panel_con_clusters`, `cluster_df`, `icp` | `metricas_modelo.csv`, `ipd_completo.csv` |
 
 **Garantías de reproducibilidad:**
@@ -92,11 +91,3 @@ pip install -r requirements.txt          # Python 3.11
 - Particiones y validación cruzada **temporales** (sin filtración de información futura).
 - Las rutas se resuelven automáticamente desde la raíz del repo (los cuadernos funcionan ejecutados desde `notebooks/` o desde la raíz).
 - `outputs/tablas/ipd_completo.csv` (~590 MB) no se versiona: se regenera corriendo el cuaderno 04.
-
-## Calendario de entregas (hallazgos)
-
-| Fecha | Entrega |
-|-------|---------|
-| 12 jun | 00 + 01 + 02 — Obj. Espec.1, Obj. Espec.2, Obj. Espec.3 |
-| 19 jun | 03 — Obj. Espec.4 (conglomerados + robustez) |
-| 26 jun | 04 — Obj. Espec.5 (validación cruzada, hiperparámetros, métricas desagregadas) |
