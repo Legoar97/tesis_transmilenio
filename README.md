@@ -9,7 +9,7 @@ Análisis del desbalance entre la **cobertura de servicio asignada** y la **dema
 
 ## Indicadores
 
-- **ICP — Índice de Cobertura Ponderada (sección 3.4).** Cuantifica la cobertura de servicio asignada a cada estación integrando el número de rutas, el tipo de bus (biarticulado = 250, articulado = 160, padrón dual = 80 pasajeros, según el TCQSM) y una ponderación en forma de V (piso 0,30) según la posición de la estación dentro de cada ruta. Es **estático** (no varía por hora ni tipo de día): limitación explícita derivada de que TransMilenio no publica frecuencias del troncal.
+- **ICP — Índice de Cobertura Ponderada (sección 3.4).** Cuantifica la cobertura de servicio asignada a cada estación integrando el número de rutas, el tipo de bus (biarticulado = 250, articulado = 160, padrón dual = 80 pasajeros, según la información de flota troncal de TransMilenio S.A.; el TCQSM aporta el marco conceptual de capacidad) y una ponderación en forma de V (piso 0,30) según la posición de la estación dentro de cada ruta. Es **estático** (no varía por hora ni tipo de día): limitación explícita derivada de que TransMilenio no publica frecuencias del troncal.
 - **IPD — Índice de Presión de Demanda (sección 3.5).** Cociente entre las validaciones observadas y el ICP (`IPD = validaciones / ICP`); señala dónde y cuándo la demanda iguala o supera la cobertura asignada. Se interpreta como **presión relativa**, no como saturación física, y el análisis se restringe a días hábiles no festivos.
 
 ## Correspondencia notebooks ↔ capítulo 3 (metodología)
@@ -20,7 +20,7 @@ Los cuadernos documentan en celdas markdown **el porqué de cada decisión metod
 |---|----------|-----------|---------------------------|
 | 00 | `00_preparacion_datos` | sección 3.1–3.3 | Fuentes; mapeo por **código** (no por nombre); formato ancho→largo; agregación de accesos; calendario de festivos; exclusión de cierres por obras del Metro (ausencia de filas en los archivos fuente) |
 | 01 | `01_OE1_patrones` | sección 3.6 | EDA en dos niveles; Lorenz/Gini; outliers IQR (se conservan); Shapiro-Wilk → estadística no paramétrica (Spearman, Kruskal-Wallis); verificación lectivo vs. receso (no se excluyen meses) |
-| 02 | `02_OE2-OE3_ICP_IPD` | sección 3.4–3.5 | ICP con ponderación en V (piso 0,30) y capacidades TCQSM; IPD y su sesgo por ICP estático; **sensibilidad del piso** (0,10–0,50 y ponderación plana, con ARI) |
+| 02 | `02_OE2-OE3_ICP_IPD` | sección 3.4–3.5 | ICP con ponderación en V (piso 0,30) y capacidades de flota troncal (TransMilenio S.A.); IPD y su sesgo por ICP estático; **sensibilidad del piso** (0,10–0,50 y ponderación plana, con ARI) |
 | 03 | `03_OE4_conglomerados` | sección 3.7 | K-Means (justificado frente a DBSCAN/jerárquico); z-score; K=4 por codo+silueta; validación (silueta por estación, estabilidad ARI, contraste jerárquico Ward); Kruskal-Wallis + Mann-Whitney/Bonferroni |
 | 04 | `04_OE5_modelo_XGBoost` | sección 3.8 | Especificaciones anidadas M0–M2 + M3 (rezago 7 días); partición temporal 80/20; búsqueda con TimeSeriesSplit; objetivo Poisson (contraste log1p); gain+SHAP; bootstrap por estación; umbrales de presión 1,0/1,5 con sensibilidad |
 
